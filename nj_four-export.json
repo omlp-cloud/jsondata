@@ -1,0 +1,4441 @@
+[ {
+  "draw_date" : "09/30/2021",
+  "eve_f" : "4",
+  "mid_f" : "5",
+  "nj_four_eve" : "3142",
+  "nj_four_mid" : "8564"
+}, {
+  "draw_date" : "09/29/2021",
+  "eve_f" : "7",
+  "mid_f" : "2",
+  "nj_four_eve" : "7253",
+  "nj_four_mid" : "0715"
+}, {
+  "draw_date" : "09/28/2021",
+  "eve_f" : "9",
+  "mid_f" : "3",
+  "nj_four_eve" : "4222",
+  "nj_four_mid" : "3269"
+}, {
+  "draw_date" : "09/27/2021",
+  "eve_f" : "2",
+  "mid_f" : "5",
+  "nj_four_eve" : "3804",
+  "nj_four_mid" : "9601"
+}, {
+  "draw_date" : "09/26/2021",
+  "eve_f" : "6",
+  "mid_f" : "5",
+  "nj_four_eve" : "2203",
+  "nj_four_mid" : "7292"
+}, {
+  "draw_date" : "09/25/2021",
+  "eve_f" : "3",
+  "mid_f" : "7",
+  "nj_four_eve" : "3837",
+  "nj_four_mid" : "9155"
+}, {
+  "draw_date" : "09/24/2021",
+  "eve_f" : "8",
+  "mid_f" : "3",
+  "nj_four_eve" : "1736",
+  "nj_four_mid" : "6424"
+}, {
+  "draw_date" : "09/23/2021",
+  "eve_f" : "7",
+  "mid_f" : "7",
+  "nj_four_eve" : "9486",
+  "nj_four_mid" : "9982"
+}, {
+  "draw_date" : "09/22/2021",
+  "eve_f" : "1",
+  "mid_f" : "2",
+  "nj_four_eve" : "3551",
+  "nj_four_mid" : "1276"
+}, {
+  "draw_date" : "09/21/2021",
+  "eve_f" : "8",
+  "mid_f" : "0",
+  "nj_four_eve" : "7014",
+  "nj_four_mid" : "2100"
+}, {
+  "draw_date" : "09/20/2021",
+  "eve_f" : "5",
+  "mid_f" : "2",
+  "nj_four_eve" : "8934",
+  "nj_four_mid" : "8421"
+}, {
+  "draw_date" : "09/19/2021",
+  "eve_f" : "1",
+  "mid_f" : "3",
+  "nj_four_eve" : "1302",
+  "nj_four_mid" : "1364"
+}, {
+  "draw_date" : "09/18/2021",
+  "eve_f" : "7",
+  "mid_f" : "4",
+  "nj_four_eve" : "6279",
+  "nj_four_mid" : "6274"
+}, {
+  "draw_date" : "09/17/2021",
+  "eve_f" : "4",
+  "mid_f" : "4",
+  "nj_four_eve" : "9740",
+  "nj_four_mid" : "6277"
+}, {
+  "draw_date" : "09/16/2021",
+  "eve_f" : "9",
+  "mid_f" : "8",
+  "nj_four_eve" : "3017",
+  "nj_four_mid" : "4628"
+}, {
+  "draw_date" : "09/15/2021",
+  "eve_f" : "2",
+  "mid_f" : "1",
+  "nj_four_eve" : "9313",
+  "nj_four_mid" : "8290"
+}, {
+  "draw_date" : "09/14/2021",
+  "eve_f" : "3",
+  "mid_f" : "7",
+  "nj_four_eve" : "7654",
+  "nj_four_mid" : "2766"
+}, {
+  "draw_date" : "09/13/2021",
+  "eve_f" : "4",
+  "mid_f" : "6",
+  "nj_four_eve" : "7187",
+  "nj_four_mid" : "7823"
+}, {
+  "draw_date" : "09/12/2021",
+  "eve_f" : "0",
+  "mid_f" : "7",
+  "nj_four_eve" : "2031",
+  "nj_four_mid" : "1643"
+}, {
+  "draw_date" : "09/11/2021",
+  "eve_f" : "7",
+  "mid_f" : "4",
+  "nj_four_eve" : "8257",
+  "nj_four_mid" : "6725"
+}, {
+  "draw_date" : "09/10/2021",
+  "eve_f" : "8",
+  "mid_f" : "3",
+  "nj_four_eve" : "4666",
+  "nj_four_mid" : "2048"
+}, {
+  "draw_date" : "09/09/2021",
+  "eve_f" : "0",
+  "mid_f" : "7",
+  "nj_four_eve" : "8513",
+  "nj_four_mid" : "2814"
+}, {
+  "draw_date" : "09/08/2021",
+  "eve_f" : "9",
+  "mid_f" : "2",
+  "nj_four_eve" : "7605",
+  "nj_four_mid" : "8214"
+}, {
+  "draw_date" : "09/07/2021",
+  "eve_f" : "2",
+  "mid_f" : "0",
+  "nj_four_eve" : "0137",
+  "nj_four_mid" : "0840"
+}, {
+  "draw_date" : "09/06/2021",
+  "eve_f" : "1",
+  "mid_f" : "9",
+  "nj_four_eve" : "9676",
+  "nj_four_mid" : "1068"
+}, {
+  "draw_date" : "09/05/2021",
+  "eve_f" : "6",
+  "mid_f" : "2",
+  "nj_four_eve" : "0991",
+  "nj_four_mid" : "8971"
+}, {
+  "draw_date" : "09/04/2021",
+  "eve_f" : "4",
+  "mid_f" : "8",
+  "nj_four_eve" : "2789",
+  "nj_four_mid" : "3889"
+}, {
+  "draw_date" : "09/03/2021",
+  "eve_f" : "0",
+  "mid_f" : "7",
+  "nj_four_eve" : "2310",
+  "nj_four_mid" : "6776"
+}, {
+  "draw_date" : "09/02/2021",
+  "eve_f" : "8",
+  "mid_f" : "0",
+  "nj_four_eve" : "8046",
+  "nj_four_mid" : "4158"
+}, {
+  "draw_date" : "09/01/2021",
+  "eve_f" : "3",
+  "mid_f" : "9",
+  "nj_four_eve" : "0217",
+  "nj_four_mid" : "2884"
+}, {
+  "draw_date" : "08/31/2021",
+  "eve_f" : "3",
+  "mid_f" : "4",
+  "nj_four_eve" : "9894",
+  "nj_four_mid" : "6660"
+}, {
+  "draw_date" : "08/30/2021",
+  "eve_f" : "2",
+  "mid_f" : "3",
+  "nj_four_eve" : "4593",
+  "nj_four_mid" : "6144"
+}, {
+  "draw_date" : "08/29/2021",
+  "eve_f" : "5",
+  "mid_f" : "6",
+  "nj_four_eve" : "2630",
+  "nj_four_mid" : "9653"
+}, {
+  "draw_date" : "08/28/2021",
+  "eve_f" : "4",
+  "mid_f" : "9",
+  "nj_four_eve" : "7749",
+  "nj_four_mid" : "0964"
+}, {
+  "draw_date" : "08/27/2021",
+  "eve_f" : "3",
+  "mid_f" : "2",
+  "nj_four_eve" : "5872",
+  "nj_four_mid" : "1953"
+}, {
+  "draw_date" : "08/26/2021",
+  "eve_f" : "6",
+  "mid_f" : "4",
+  "nj_four_eve" : "9078",
+  "nj_four_mid" : "3365"
+}, {
+  "draw_date" : "08/25/2021",
+  "eve_f" : "0",
+  "mid_f" : "8",
+  "nj_four_eve" : "7322",
+  "nj_four_mid" : "9322"
+}, {
+  "draw_date" : "08/24/2021",
+  "eve_f" : "8",
+  "mid_f" : "0",
+  "nj_four_eve" : "1496",
+  "nj_four_mid" : "8859"
+}, {
+  "draw_date" : "08/23/2021",
+  "eve_f" : "0",
+  "mid_f" : "8",
+  "nj_four_eve" : "0672",
+  "nj_four_mid" : "7742"
+}, {
+  "draw_date" : "08/22/2021",
+  "eve_f" : "4",
+  "mid_f" : "9",
+  "nj_four_eve" : "2937",
+  "nj_four_mid" : "7548"
+}, {
+  "draw_date" : "08/21/2021",
+  "eve_f" : "1",
+  "mid_f" : "2",
+  "nj_four_eve" : "4446",
+  "nj_four_mid" : "5547"
+}, {
+  "draw_date" : "08/20/2021",
+  "eve_f" : "0",
+  "mid_f" : "8",
+  "nj_four_eve" : "7252",
+  "nj_four_mid" : "4469"
+}, {
+  "draw_date" : "08/19/2021",
+  "eve_f" : "7",
+  "mid_f" : "9",
+  "nj_four_eve" : "2682",
+  "nj_four_mid" : "6495"
+}, {
+  "draw_date" : "08/18/2021",
+  "eve_f" : "7",
+  "mid_f" : "2",
+  "nj_four_eve" : "0757",
+  "nj_four_mid" : "4105"
+}, {
+  "draw_date" : "08/17/2021",
+  "eve_f" : "9",
+  "mid_f" : "4",
+  "nj_four_eve" : "9079",
+  "nj_four_mid" : "3293"
+}, {
+  "draw_date" : "08/16/2021",
+  "eve_f" : "1",
+  "mid_f" : "6",
+  "nj_four_eve" : "1112",
+  "nj_four_mid" : "0179"
+}, {
+  "draw_date" : "08/15/2021",
+  "eve_f" : "4",
+  "mid_f" : "8",
+  "nj_four_eve" : "2403",
+  "nj_four_mid" : "7334"
+}, {
+  "draw_date" : "08/14/2021",
+  "eve_f" : "5",
+  "mid_f" : "9",
+  "nj_four_eve" : "9875",
+  "nj_four_mid" : "2776"
+}, {
+  "draw_date" : "08/13/2021",
+  "eve_f" : "0",
+  "mid_f" : "2",
+  "nj_four_eve" : "1348",
+  "nj_four_mid" : "4289"
+}, {
+  "draw_date" : "08/12/2021",
+  "eve_f" : "1",
+  "mid_f" : "2",
+  "nj_four_eve" : "1184",
+  "nj_four_mid" : "6557"
+}, {
+  "draw_date" : "08/11/2021",
+  "eve_f" : "2",
+  "mid_f" : "9",
+  "nj_four_eve" : "5350",
+  "nj_four_mid" : "4994"
+}, {
+  "draw_date" : "08/10/2021",
+  "eve_f" : "9",
+  "mid_f" : "9",
+  "nj_four_eve" : "9309",
+  "nj_four_mid" : "6146"
+}, {
+  "draw_date" : "08/09/2021",
+  "eve_f" : "8",
+  "mid_f" : "4",
+  "nj_four_eve" : "2994",
+  "nj_four_mid" : "2474"
+}, {
+  "draw_date" : "08/08/2021",
+  "eve_f" : "9",
+  "mid_f" : "6",
+  "nj_four_eve" : "5912",
+  "nj_four_mid" : "1212"
+}, {
+  "draw_date" : "08/07/2021",
+  "eve_f" : "6",
+  "mid_f" : "1",
+  "nj_four_eve" : "5237",
+  "nj_four_mid" : "6852"
+}, {
+  "draw_date" : "08/06/2021",
+  "eve_f" : "4",
+  "mid_f" : "8",
+  "nj_four_eve" : "4765",
+  "nj_four_mid" : "4208"
+}, {
+  "draw_date" : "08/05/2021",
+  "eve_f" : "9",
+  "mid_f" : "3",
+  "nj_four_eve" : "7495",
+  "nj_four_mid" : "2527"
+}, {
+  "draw_date" : "08/04/2021",
+  "eve_f" : "6",
+  "mid_f" : "1",
+  "nj_four_eve" : "2561",
+  "nj_four_mid" : "1196"
+}, {
+  "draw_date" : "08/03/2021",
+  "eve_f" : "3",
+  "mid_f" : "8",
+  "nj_four_eve" : "1681",
+  "nj_four_mid" : "2426"
+}, {
+  "draw_date" : "08/02/2021",
+  "eve_f" : "4",
+  "mid_f" : "9",
+  "nj_four_eve" : "4462",
+  "nj_four_mid" : "1893"
+}, {
+  "draw_date" : "08/01/2021",
+  "eve_f" : "8",
+  "mid_f" : "3",
+  "nj_four_eve" : "0501",
+  "nj_four_mid" : "5449"
+}, {
+  "draw_date" : "07/31/2021",
+  "eve_f" : "7",
+  "mid_f" : "6",
+  "nj_four_eve" : "4507",
+  "nj_four_mid" : "8603"
+}, {
+  "draw_date" : "07/30/2021",
+  "eve_f" : "9",
+  "mid_f" : "8",
+  "nj_four_eve" : "9337",
+  "nj_four_mid" : "4070"
+}, {
+  "draw_date" : "07/29/2021",
+  "eve_f" : "6",
+  "mid_f" : "9",
+  "nj_four_eve" : "6537",
+  "nj_four_mid" : "2828"
+}, {
+  "draw_date" : "07/28/2021",
+  "eve_f" : "0",
+  "mid_f" : "8",
+  "nj_four_eve" : "2349",
+  "nj_four_mid" : "3706"
+}, {
+  "draw_date" : "07/27/2021",
+  "eve_f" : "9",
+  "mid_f" : "1",
+  "nj_four_eve" : "2740",
+  "nj_four_mid" : "8016"
+}, {
+  "draw_date" : "07/26/2021",
+  "eve_f" : "8",
+  "mid_f" : "8",
+  "nj_four_eve" : "9044",
+  "nj_four_mid" : "8569"
+}, {
+  "draw_date" : "07/25/2021",
+  "eve_f" : "6",
+  "mid_f" : "2",
+  "nj_four_eve" : "3196",
+  "nj_four_mid" : "8600"
+}, {
+  "draw_date" : "07/24/2021",
+  "eve_f" : "1",
+  "mid_f" : "2",
+  "nj_four_eve" : "5788",
+  "nj_four_mid" : "9353"
+}, {
+  "draw_date" : "07/23/2021",
+  "eve_f" : "7",
+  "mid_f" : "4",
+  "nj_four_eve" : "7158",
+  "nj_four_mid" : "8575"
+}, {
+  "draw_date" : "07/22/2021",
+  "eve_f" : "0",
+  "mid_f" : "0",
+  "nj_four_eve" : "9800",
+  "nj_four_mid" : "2184"
+}, {
+  "draw_date" : "07/21/2021",
+  "eve_f" : "2",
+  "mid_f" : "4",
+  "nj_four_eve" : "5340",
+  "nj_four_mid" : "5104"
+}, {
+  "draw_date" : "07/20/2021",
+  "eve_f" : "8",
+  "mid_f" : "6",
+  "nj_four_eve" : "2915",
+  "nj_four_mid" : "8812"
+}, {
+  "draw_date" : "07/19/2021",
+  "eve_f" : "5",
+  "mid_f" : "6",
+  "nj_four_eve" : "9679",
+  "nj_four_mid" : "7136"
+}, {
+  "draw_date" : "07/18/2021",
+  "eve_f" : "0",
+  "mid_f" : "5",
+  "nj_four_eve" : "5152",
+  "nj_four_mid" : "5450"
+}, {
+  "draw_date" : "07/17/2021",
+  "eve_f" : "8",
+  "mid_f" : "3",
+  "nj_four_eve" : "5179",
+  "nj_four_mid" : "6170"
+}, {
+  "draw_date" : "07/16/2021",
+  "eve_f" : "8",
+  "mid_f" : "8",
+  "nj_four_eve" : "4812",
+  "nj_four_mid" : "5146"
+}, {
+  "draw_date" : "07/15/2021",
+  "eve_f" : "6",
+  "mid_f" : "8",
+  "nj_four_eve" : "7898",
+  "nj_four_mid" : "9412"
+}, {
+  "draw_date" : "07/14/2021",
+  "eve_f" : "3",
+  "mid_f" : "6",
+  "nj_four_eve" : "3991",
+  "nj_four_mid" : "8808"
+}, {
+  "draw_date" : "07/13/2021",
+  "eve_f" : "3",
+  "mid_f" : "1",
+  "nj_four_eve" : "3250",
+  "nj_four_mid" : "6154"
+}, {
+  "draw_date" : "07/12/2021",
+  "eve_f" : "4",
+  "mid_f" : "2",
+  "nj_four_eve" : "9311",
+  "nj_four_mid" : "2135"
+}, {
+  "draw_date" : "07/11/2021",
+  "eve_f" : "9",
+  "mid_f" : "6",
+  "nj_four_eve" : "7828",
+  "nj_four_mid" : "3167"
+}, {
+  "draw_date" : "07/10/2021",
+  "eve_f" : "3",
+  "mid_f" : "4",
+  "nj_four_eve" : "3274",
+  "nj_four_mid" : "7961"
+}, {
+  "draw_date" : "07/09/2021",
+  "eve_f" : "3",
+  "mid_f" : "3",
+  "nj_four_eve" : "4725",
+  "nj_four_mid" : "2582"
+}, {
+  "draw_date" : "07/08/2021",
+  "eve_f" : "8",
+  "mid_f" : "3",
+  "nj_four_eve" : "7360",
+  "nj_four_mid" : "5014"
+}, {
+  "draw_date" : "07/07/2021",
+  "eve_f" : "2",
+  "mid_f" : "2",
+  "nj_four_eve" : "5938",
+  "nj_four_mid" : "1163"
+}, {
+  "draw_date" : "07/06/2021",
+  "eve_f" : "9",
+  "mid_f" : "4",
+  "nj_four_eve" : "6787",
+  "nj_four_mid" : "6432"
+}, {
+  "draw_date" : "07/05/2021",
+  "eve_f" : "2",
+  "mid_f" : "0",
+  "nj_four_eve" : "2436",
+  "nj_four_mid" : "1292"
+}, {
+  "draw_date" : "07/04/2021",
+  "eve_f" : "2",
+  "mid_f" : "6",
+  "nj_four_eve" : "1598",
+  "nj_four_mid" : "5032"
+}, {
+  "draw_date" : "07/03/2021",
+  "eve_f" : "0",
+  "mid_f" : "3",
+  "nj_four_eve" : "0302",
+  "nj_four_mid" : "8755"
+}, {
+  "draw_date" : "07/02/2021",
+  "eve_f" : "5",
+  "mid_f" : "0",
+  "nj_four_eve" : "1739",
+  "nj_four_mid" : "8227"
+}, {
+  "draw_date" : "07/01/2021",
+  "eve_f" : "7",
+  "mid_f" : "3",
+  "nj_four_eve" : "7026",
+  "nj_four_mid" : "1207"
+}, {
+  "draw_date" : "06/30/2021",
+  "eve_f" : "8",
+  "mid_f" : "1",
+  "nj_four_eve" : "8599",
+  "nj_four_mid" : "2874"
+}, {
+  "draw_date" : "06/29/2021",
+  "eve_f" : "3",
+  "mid_f" : "2",
+  "nj_four_eve" : "8241",
+  "nj_four_mid" : "5275"
+}, {
+  "draw_date" : "06/28/2021",
+  "eve_f" : "6",
+  "mid_f" : "6",
+  "nj_four_eve" : "7454",
+  "nj_four_mid" : "2372"
+}, {
+  "draw_date" : "06/27/2021",
+  "eve_f" : "8",
+  "mid_f" : "2",
+  "nj_four_eve" : "3849",
+  "nj_four_mid" : "1415"
+}, {
+  "draw_date" : "06/26/2021",
+  "eve_f" : "1",
+  "mid_f" : "4",
+  "nj_four_eve" : "0304",
+  "nj_four_mid" : "6619"
+}, {
+  "draw_date" : "06/25/2021",
+  "eve_f" : "0",
+  "mid_f" : "9",
+  "nj_four_eve" : "6917",
+  "nj_four_mid" : "2533"
+}, {
+  "draw_date" : "06/24/2021",
+  "eve_f" : "0",
+  "mid_f" : "4",
+  "nj_four_eve" : "0036",
+  "nj_four_mid" : "5851"
+}, {
+  "draw_date" : "06/23/2021",
+  "eve_f" : "6",
+  "mid_f" : "1",
+  "nj_four_eve" : "1496",
+  "nj_four_mid" : "1174"
+}, {
+  "draw_date" : "06/22/2021",
+  "eve_f" : "2",
+  "mid_f" : "2",
+  "nj_four_eve" : "8138",
+  "nj_four_mid" : "9180"
+}, {
+  "draw_date" : "06/21/2021",
+  "eve_f" : "8",
+  "mid_f" : "4",
+  "nj_four_eve" : "2120",
+  "nj_four_mid" : "8301"
+}, {
+  "draw_date" : "06/20/2021",
+  "eve_f" : "3",
+  "mid_f" : "6",
+  "nj_four_eve" : "8640",
+  "nj_four_mid" : "8475"
+}, {
+  "draw_date" : "06/19/2021",
+  "eve_f" : "4",
+  "mid_f" : "9",
+  "nj_four_eve" : "5833",
+  "nj_four_mid" : "9033"
+}, {
+  "draw_date" : "06/18/2021",
+  "eve_f" : "4",
+  "mid_f" : "5",
+  "nj_four_eve" : "8857",
+  "nj_four_mid" : "7966"
+}, {
+  "draw_date" : "06/17/2021",
+  "eve_f" : "5",
+  "mid_f" : "1",
+  "nj_four_eve" : "2265",
+  "nj_four_mid" : "9312"
+}, {
+  "draw_date" : "06/16/2021",
+  "eve_f" : "0",
+  "mid_f" : "7",
+  "nj_four_eve" : "5956",
+  "nj_four_mid" : "1917"
+}, {
+  "draw_date" : "06/15/2021",
+  "eve_f" : "8",
+  "mid_f" : "1",
+  "nj_four_eve" : "4094",
+  "nj_four_mid" : "4944"
+}, {
+  "draw_date" : "06/14/2021",
+  "eve_f" : "2",
+  "mid_f" : "9",
+  "nj_four_eve" : "3113",
+  "nj_four_mid" : "6217"
+}, {
+  "draw_date" : "06/13/2021",
+  "eve_f" : "6",
+  "mid_f" : "6",
+  "nj_four_eve" : "6395",
+  "nj_four_mid" : "7591"
+}, {
+  "draw_date" : "06/12/2021",
+  "eve_f" : "8",
+  "mid_f" : "3",
+  "nj_four_eve" : "2735",
+  "nj_four_mid" : "1191"
+}, {
+  "draw_date" : "06/11/2021",
+  "eve_f" : "6",
+  "mid_f" : "5",
+  "nj_four_eve" : "1219",
+  "nj_four_mid" : "6790"
+}, {
+  "draw_date" : "06/10/2021",
+  "eve_f" : "2",
+  "mid_f" : "8",
+  "nj_four_eve" : "0978",
+  "nj_four_mid" : "2822"
+}, {
+  "draw_date" : "06/09/2021",
+  "eve_f" : "9",
+  "mid_f" : "7",
+  "nj_four_eve" : "1560",
+  "nj_four_mid" : "9576"
+}, {
+  "draw_date" : "06/08/2021",
+  "eve_f" : "4",
+  "mid_f" : "7",
+  "nj_four_eve" : "9511",
+  "nj_four_mid" : "5659"
+}, {
+  "draw_date" : "06/07/2021",
+  "eve_f" : "3",
+  "mid_f" : "9",
+  "nj_four_eve" : "6518",
+  "nj_four_mid" : "1319"
+}, {
+  "draw_date" : "06/06/2021",
+  "eve_f" : "5",
+  "mid_f" : "5",
+  "nj_four_eve" : "3961",
+  "nj_four_mid" : "7774"
+}, {
+  "draw_date" : "06/05/2021",
+  "eve_f" : "3",
+  "mid_f" : "6",
+  "nj_four_eve" : "3173",
+  "nj_four_mid" : "8506"
+}, {
+  "draw_date" : "06/04/2021",
+  "eve_f" : "3",
+  "mid_f" : "9",
+  "nj_four_eve" : "3431",
+  "nj_four_mid" : "8929"
+}, {
+  "draw_date" : "06/03/2021",
+  "eve_f" : "0",
+  "mid_f" : "1",
+  "nj_four_eve" : "3345",
+  "nj_four_mid" : "9660"
+}, {
+  "draw_date" : "06/02/2021",
+  "eve_f" : "8",
+  "mid_f" : "5",
+  "nj_four_eve" : "2082",
+  "nj_four_mid" : "2133"
+}, {
+  "draw_date" : "06/01/2021",
+  "eve_f" : "7",
+  "mid_f" : "7",
+  "nj_four_eve" : "4650",
+  "nj_four_mid" : "9451"
+}, {
+  "draw_date" : "05/31/2021",
+  "eve_f" : "0",
+  "mid_f" : "9",
+  "nj_four_eve" : "2022",
+  "nj_four_mid" : "9490"
+}, {
+  "draw_date" : "05/30/2021",
+  "eve_f" : "6",
+  "mid_f" : "9",
+  "nj_four_eve" : "9006",
+  "nj_four_mid" : "5807"
+}, {
+  "draw_date" : "05/29/2021",
+  "eve_f" : "2",
+  "mid_f" : "1",
+  "nj_four_eve" : "0252",
+  "nj_four_mid" : "1228"
+}, {
+  "draw_date" : "05/28/2021",
+  "eve_f" : "6",
+  "mid_f" : "1",
+  "nj_four_eve" : "3382",
+  "nj_four_mid" : "8286"
+}, {
+  "draw_date" : "05/27/2021",
+  "eve_f" : "7",
+  "mid_f" : "5",
+  "nj_four_eve" : "8538",
+  "nj_four_mid" : "1739"
+}, {
+  "draw_date" : "05/26/2021",
+  "eve_f" : "1",
+  "mid_f" : "3",
+  "nj_four_eve" : "4866",
+  "nj_four_mid" : "0990"
+}, {
+  "draw_date" : "05/25/2021",
+  "eve_f" : "7",
+  "mid_f" : "5",
+  "nj_four_eve" : "4508",
+  "nj_four_mid" : "9758"
+}, {
+  "draw_date" : "05/24/2021",
+  "eve_f" : "9",
+  "mid_f" : "7",
+  "nj_four_eve" : "1070",
+  "nj_four_mid" : "4355"
+}, {
+  "draw_date" : "05/23/2021",
+  "eve_f" : "3",
+  "mid_f" : "0",
+  "nj_four_eve" : "5663",
+  "nj_four_mid" : "3669"
+}, {
+  "draw_date" : "05/22/2021",
+  "eve_f" : "1",
+  "mid_f" : "6",
+  "nj_four_eve" : "9135",
+  "nj_four_mid" : "5466"
+}, {
+  "draw_date" : "05/21/2021",
+  "eve_f" : "6",
+  "mid_f" : "9",
+  "nj_four_eve" : "7763",
+  "nj_four_mid" : "8487"
+}, {
+  "draw_date" : "05/20/2021",
+  "eve_f" : "8",
+  "mid_f" : "4",
+  "nj_four_eve" : "8693",
+  "nj_four_mid" : "1814"
+}, {
+  "draw_date" : "05/19/2021",
+  "eve_f" : "1",
+  "mid_f" : "2",
+  "nj_four_eve" : "7969",
+  "nj_four_mid" : "3770"
+}, {
+  "draw_date" : "05/18/2021",
+  "eve_f" : "2",
+  "mid_f" : "0",
+  "nj_four_eve" : "1934",
+  "nj_four_mid" : "3742"
+}, {
+  "draw_date" : "05/17/2021",
+  "eve_f" : "8",
+  "mid_f" : "6",
+  "nj_four_eve" : "3231",
+  "nj_four_mid" : "8046"
+}, {
+  "draw_date" : "05/16/2021",
+  "eve_f" : "6",
+  "mid_f" : "8",
+  "nj_four_eve" : "6287",
+  "nj_four_mid" : "0526"
+}, {
+  "draw_date" : "05/15/2021",
+  "eve_f" : "1",
+  "mid_f" : "7",
+  "nj_four_eve" : "4565",
+  "nj_four_mid" : "7733"
+}, {
+  "draw_date" : "05/14/2021",
+  "eve_f" : "6",
+  "mid_f" : "9",
+  "nj_four_eve" : "7150",
+  "nj_four_mid" : "0415"
+}, {
+  "draw_date" : "05/13/2021",
+  "eve_f" : "5",
+  "mid_f" : "5",
+  "nj_four_eve" : "4618",
+  "nj_four_mid" : "1725"
+}, {
+  "draw_date" : "05/12/2021",
+  "eve_f" : "3",
+  "mid_f" : "2",
+  "nj_four_eve" : "3099",
+  "nj_four_mid" : "5501"
+}, {
+  "draw_date" : "05/11/2021",
+  "eve_f" : "4",
+  "mid_f" : "3",
+  "nj_four_eve" : "6769",
+  "nj_four_mid" : "2550"
+}, {
+  "draw_date" : "05/10/2021",
+  "eve_f" : "6",
+  "mid_f" : "4",
+  "nj_four_eve" : "5327",
+  "nj_four_mid" : "0552"
+}, {
+  "draw_date" : "05/09/2021",
+  "eve_f" : "3",
+  "mid_f" : "1",
+  "nj_four_eve" : "8395",
+  "nj_four_mid" : "9879"
+}, {
+  "draw_date" : "05/08/2021",
+  "eve_f" : "5",
+  "mid_f" : "8",
+  "nj_four_eve" : "3940",
+  "nj_four_mid" : "3150"
+}, {
+  "draw_date" : "05/07/2021",
+  "eve_f" : "7",
+  "mid_f" : "8",
+  "nj_four_eve" : "5387",
+  "nj_four_mid" : "9964"
+}, {
+  "draw_date" : "05/06/2021",
+  "eve_f" : "2",
+  "mid_f" : "5",
+  "nj_four_eve" : "9802",
+  "nj_four_mid" : "8736"
+}, {
+  "draw_date" : "05/05/2021",
+  "eve_f" : "6",
+  "mid_f" : "4",
+  "nj_four_eve" : "0037",
+  "nj_four_mid" : "6299"
+}, {
+  "draw_date" : "05/04/2021",
+  "eve_f" : "8",
+  "mid_f" : "6",
+  "nj_four_eve" : "2598",
+  "nj_four_mid" : "8667"
+}, {
+  "draw_date" : "05/03/2021",
+  "eve_f" : "8",
+  "mid_f" : "1",
+  "nj_four_eve" : "7305",
+  "nj_four_mid" : "8967"
+}, {
+  "draw_date" : "05/02/2021",
+  "eve_f" : "4",
+  "mid_f" : "1",
+  "nj_four_eve" : "8180",
+  "nj_four_mid" : "1513"
+}, {
+  "draw_date" : "05/01/2021",
+  "eve_f" : "2",
+  "mid_f" : "3",
+  "nj_four_eve" : "9246",
+  "nj_four_mid" : "1837"
+}, {
+  "draw_date" : "04/30/2021",
+  "eve_f" : "2",
+  "mid_f" : "0",
+  "nj_four_eve" : "2778",
+  "nj_four_mid" : "7079"
+}, {
+  "draw_date" : "04/29/2021",
+  "eve_f" : "3",
+  "mid_f" : "9",
+  "nj_four_eve" : "4359",
+  "nj_four_mid" : "9812"
+}, {
+  "draw_date" : "04/28/2021",
+  "eve_f" : "4",
+  "mid_f" : "0",
+  "nj_four_eve" : "1027",
+  "nj_four_mid" : "4727"
+}, {
+  "draw_date" : "04/27/2021",
+  "eve_f" : "2",
+  "mid_f" : "0",
+  "nj_four_eve" : "6669",
+  "nj_four_mid" : "4382"
+}, {
+  "draw_date" : "04/26/2021",
+  "eve_f" : "3",
+  "mid_f" : "5",
+  "nj_four_eve" : "1156",
+  "nj_four_mid" : "8286"
+}, {
+  "draw_date" : "04/25/2021",
+  "eve_f" : "1",
+  "mid_f" : "8",
+  "nj_four_eve" : "0225",
+  "nj_four_mid" : "7068"
+}, {
+  "draw_date" : "04/24/2021",
+  "eve_f" : "7",
+  "mid_f" : "9",
+  "nj_four_eve" : "1618",
+  "nj_four_mid" : "7189"
+}, {
+  "draw_date" : "04/23/2021",
+  "eve_f" : "2",
+  "mid_f" : "6",
+  "nj_four_eve" : "4918",
+  "nj_four_mid" : "9524"
+}, {
+  "draw_date" : "04/22/2021",
+  "eve_f" : "2",
+  "mid_f" : "0",
+  "nj_four_eve" : "3884",
+  "nj_four_mid" : "2057"
+}, {
+  "draw_date" : "04/21/2021",
+  "eve_f" : "8",
+  "mid_f" : "0",
+  "nj_four_eve" : "7154",
+  "nj_four_mid" : "0508"
+}, {
+  "draw_date" : "04/20/2021",
+  "eve_f" : "9",
+  "mid_f" : "8",
+  "nj_four_eve" : "4166",
+  "nj_four_mid" : "4410"
+}, {
+  "draw_date" : "04/19/2021",
+  "eve_f" : "1",
+  "mid_f" : "0",
+  "nj_four_eve" : "1666",
+  "nj_four_mid" : "9669"
+}, {
+  "draw_date" : "04/18/2021",
+  "eve_f" : "2",
+  "mid_f" : "2",
+  "nj_four_eve" : "7279",
+  "nj_four_mid" : "9285"
+}, {
+  "draw_date" : "04/17/2021",
+  "eve_f" : "3",
+  "mid_f" : "8",
+  "nj_four_eve" : "5759",
+  "nj_four_mid" : "2982"
+}, {
+  "draw_date" : "04/16/2021",
+  "eve_f" : "4",
+  "mid_f" : "2",
+  "nj_four_eve" : "4939",
+  "nj_four_mid" : "6514"
+}, {
+  "draw_date" : "04/15/2021",
+  "eve_f" : "8",
+  "mid_f" : "1",
+  "nj_four_eve" : "8225",
+  "nj_four_mid" : "6728"
+}, {
+  "draw_date" : "04/14/2021",
+  "eve_f" : "5",
+  "mid_f" : "3",
+  "nj_four_eve" : "0463",
+  "nj_four_mid" : "1007"
+}, {
+  "draw_date" : "04/13/2021",
+  "eve_f" : "0",
+  "mid_f" : "0",
+  "nj_four_eve" : "9163",
+  "nj_four_mid" : "9595"
+}, {
+  "draw_date" : "04/12/2021",
+  "eve_f" : "0",
+  "mid_f" : "3",
+  "nj_four_eve" : "8343",
+  "nj_four_mid" : "5408"
+}, {
+  "draw_date" : "04/11/2021",
+  "eve_f" : "6",
+  "mid_f" : "3",
+  "nj_four_eve" : "7112",
+  "nj_four_mid" : "0749"
+}, {
+  "draw_date" : "04/10/2021",
+  "eve_f" : "0",
+  "mid_f" : "2",
+  "nj_four_eve" : "3120",
+  "nj_four_mid" : "1760"
+}, {
+  "draw_date" : "04/09/2021",
+  "eve_f" : "4",
+  "mid_f" : "5",
+  "nj_four_eve" : "3341",
+  "nj_four_mid" : "2543"
+}, {
+  "draw_date" : "04/08/2021",
+  "eve_f" : "9",
+  "mid_f" : "1",
+  "nj_four_eve" : "3681",
+  "nj_four_mid" : "0478"
+}, {
+  "draw_date" : "04/07/2021",
+  "eve_f" : "4",
+  "mid_f" : "4",
+  "nj_four_eve" : "3328",
+  "nj_four_mid" : "2941"
+}, {
+  "draw_date" : "04/06/2021",
+  "eve_f" : "8",
+  "mid_f" : "4",
+  "nj_four_eve" : "4080",
+  "nj_four_mid" : "6267"
+}, {
+  "draw_date" : "04/05/2021",
+  "eve_f" : "5",
+  "mid_f" : "5",
+  "nj_four_eve" : "5192",
+  "nj_four_mid" : "2101"
+}, {
+  "draw_date" : "04/04/2021",
+  "eve_f" : "3",
+  "mid_f" : "7",
+  "nj_four_eve" : "2466",
+  "nj_four_mid" : "4726"
+}, {
+  "draw_date" : "04/03/2021",
+  "eve_f" : "5",
+  "mid_f" : "9",
+  "nj_four_eve" : "2973",
+  "nj_four_mid" : "7608"
+}, {
+  "draw_date" : "04/02/2021",
+  "eve_f" : "5",
+  "mid_f" : "9",
+  "nj_four_eve" : "1568",
+  "nj_four_mid" : "0735"
+}, {
+  "draw_date" : "04/01/2021",
+  "eve_f" : "9",
+  "mid_f" : "7",
+  "nj_four_eve" : "9304",
+  "nj_four_mid" : "1349"
+}, {
+  "draw_date" : "03/31/2021",
+  "eve_f" : "7",
+  "mid_f" : "2",
+  "nj_four_eve" : "5807",
+  "nj_four_mid" : "9722"
+}, {
+  "draw_date" : "03/30/2021",
+  "eve_f" : "6",
+  "mid_f" : "0",
+  "nj_four_eve" : "1430",
+  "nj_four_mid" : "4075"
+}, {
+  "draw_date" : "03/29/2021",
+  "eve_f" : "2",
+  "mid_f" : "0",
+  "nj_four_eve" : "8599",
+  "nj_four_mid" : "3614"
+}, {
+  "draw_date" : "03/28/2021",
+  "eve_f" : "1",
+  "mid_f" : "6",
+  "nj_four_eve" : "1048",
+  "nj_four_mid" : "9169"
+}, {
+  "draw_date" : "03/27/2021",
+  "eve_f" : "9",
+  "mid_f" : "6",
+  "nj_four_eve" : "5061",
+  "nj_four_mid" : "0253"
+}, {
+  "draw_date" : "03/26/2021",
+  "eve_f" : "5",
+  "mid_f" : "9",
+  "nj_four_eve" : "0752",
+  "nj_four_mid" : "6616"
+}, {
+  "draw_date" : "03/25/2021",
+  "eve_f" : "7",
+  "mid_f" : "6",
+  "nj_four_eve" : "5195",
+  "nj_four_mid" : "8964"
+}, {
+  "draw_date" : "03/24/2021",
+  "eve_f" : "7",
+  "mid_f" : "9",
+  "nj_four_eve" : "9294",
+  "nj_four_mid" : "1603"
+}, {
+  "draw_date" : "03/23/2021",
+  "eve_f" : "0",
+  "mid_f" : "9",
+  "nj_four_eve" : "9230",
+  "nj_four_mid" : "5344"
+}, {
+  "draw_date" : "03/22/2021",
+  "eve_f" : "4",
+  "mid_f" : "0",
+  "nj_four_eve" : "8771",
+  "nj_four_mid" : "9548"
+}, {
+  "draw_date" : "03/21/2021",
+  "eve_f" : "4",
+  "mid_f" : "5",
+  "nj_four_eve" : "1438",
+  "nj_four_mid" : "9470"
+}, {
+  "draw_date" : "03/20/2021",
+  "eve_f" : "5",
+  "mid_f" : "3",
+  "nj_four_eve" : "8827",
+  "nj_four_mid" : "9594"
+}, {
+  "draw_date" : "03/19/2021",
+  "eve_f" : "3",
+  "mid_f" : "7",
+  "nj_four_eve" : "2043",
+  "nj_four_mid" : "4914"
+}, {
+  "draw_date" : "03/18/2021",
+  "eve_f" : "0",
+  "mid_f" : "0",
+  "nj_four_eve" : "0508",
+  "nj_four_mid" : "6098"
+}, {
+  "draw_date" : "03/17/2021",
+  "eve_f" : "3",
+  "mid_f" : "8",
+  "nj_four_eve" : "4132",
+  "nj_four_mid" : "6320"
+}, {
+  "draw_date" : "03/16/2021",
+  "eve_f" : "8",
+  "mid_f" : "7",
+  "nj_four_eve" : "9454",
+  "nj_four_mid" : "8290"
+}, {
+  "draw_date" : "03/15/2021",
+  "eve_f" : "8",
+  "mid_f" : "3",
+  "nj_four_eve" : "3821",
+  "nj_four_mid" : "9279"
+}, {
+  "draw_date" : "03/14/2021",
+  "eve_f" : "6",
+  "mid_f" : "5",
+  "nj_four_eve" : "0588",
+  "nj_four_mid" : "2183"
+}, {
+  "draw_date" : "03/13/2021",
+  "eve_f" : "0",
+  "mid_f" : "0",
+  "nj_four_eve" : "5165",
+  "nj_four_mid" : "3463"
+}, {
+  "draw_date" : "03/12/2021",
+  "eve_f" : "5",
+  "mid_f" : "7",
+  "nj_four_eve" : "9700",
+  "nj_four_mid" : "8142"
+}, {
+  "draw_date" : "03/11/2021",
+  "eve_f" : "9",
+  "mid_f" : "6",
+  "nj_four_eve" : "5700",
+  "nj_four_mid" : "5807"
+}, {
+  "draw_date" : "03/10/2021",
+  "eve_f" : "0",
+  "mid_f" : "5",
+  "nj_four_eve" : "8345",
+  "nj_four_mid" : "4400"
+}, {
+  "draw_date" : "03/09/2021",
+  "eve_f" : "5",
+  "mid_f" : "9",
+  "nj_four_eve" : "6198",
+  "nj_four_mid" : "3152"
+}, {
+  "draw_date" : "03/08/2021",
+  "eve_f" : "3",
+  "mid_f" : "0",
+  "nj_four_eve" : "5308",
+  "nj_four_mid" : "8749"
+}, {
+  "draw_date" : "03/07/2021",
+  "eve_f" : "8",
+  "mid_f" : "0",
+  "nj_four_eve" : "0431",
+  "nj_four_mid" : "4384"
+}, {
+  "draw_date" : "03/06/2021",
+  "eve_f" : "0",
+  "mid_f" : "8",
+  "nj_four_eve" : "1041",
+  "nj_four_mid" : "0341"
+}, {
+  "draw_date" : "03/05/2021",
+  "eve_f" : "0",
+  "mid_f" : "1",
+  "nj_four_eve" : "6801",
+  "nj_four_mid" : "4279"
+}, {
+  "draw_date" : "03/04/2021",
+  "eve_f" : "8",
+  "mid_f" : "1",
+  "nj_four_eve" : "6652",
+  "nj_four_mid" : "7241"
+}, {
+  "draw_date" : "03/03/2021",
+  "eve_f" : "9",
+  "mid_f" : "0",
+  "nj_four_eve" : "1042",
+  "nj_four_mid" : "5047"
+}, {
+  "draw_date" : "03/02/2021",
+  "eve_f" : "4",
+  "mid_f" : "3",
+  "nj_four_eve" : "0443",
+  "nj_four_mid" : "5373"
+}, {
+  "draw_date" : "03/01/2021",
+  "eve_f" : "5",
+  "mid_f" : "5",
+  "nj_four_eve" : "2574",
+  "nj_four_mid" : "9090"
+}, {
+  "draw_date" : "02/28/2021",
+  "eve_f" : "7",
+  "mid_f" : "4",
+  "nj_four_eve" : "2154",
+  "nj_four_mid" : "0058"
+}, {
+  "draw_date" : "02/27/2021",
+  "eve_f" : "0",
+  "mid_f" : "5",
+  "nj_four_eve" : "2763",
+  "nj_four_mid" : "6473"
+}, {
+  "draw_date" : "02/26/2021",
+  "eve_f" : "4",
+  "mid_f" : "8",
+  "nj_four_eve" : "8405",
+  "nj_four_mid" : "4714"
+}, {
+  "draw_date" : "02/25/2021",
+  "eve_f" : "0",
+  "mid_f" : "3",
+  "nj_four_eve" : "7541",
+  "nj_four_mid" : "0990"
+}, {
+  "draw_date" : "02/24/2021",
+  "eve_f" : "4",
+  "mid_f" : "9",
+  "nj_four_eve" : "2530",
+  "nj_four_mid" : "7271"
+}, {
+  "draw_date" : "02/23/2021",
+  "eve_f" : "0",
+  "mid_f" : "0",
+  "nj_four_eve" : "1649",
+  "nj_four_mid" : "4821"
+}, {
+  "draw_date" : "02/22/2021",
+  "eve_f" : "7",
+  "mid_f" : "9",
+  "nj_four_eve" : "3091",
+  "nj_four_mid" : "2548"
+}, {
+  "draw_date" : "02/21/2021",
+  "eve_f" : "1",
+  "mid_f" : "2",
+  "nj_four_eve" : "2305",
+  "nj_four_mid" : "9927"
+}, {
+  "draw_date" : "02/20/2021",
+  "eve_f" : "9",
+  "mid_f" : "6",
+  "nj_four_eve" : "3642",
+  "nj_four_mid" : "5111"
+}, {
+  "draw_date" : "02/19/2021",
+  "eve_f" : "7",
+  "mid_f" : "2",
+  "nj_four_eve" : "8456",
+  "nj_four_mid" : "7966"
+}, {
+  "draw_date" : "02/18/2021",
+  "eve_f" : "6",
+  "mid_f" : "8",
+  "nj_four_eve" : "3841",
+  "nj_four_mid" : "6054"
+}, {
+  "draw_date" : "02/17/2021",
+  "eve_f" : "1",
+  "mid_f" : "7",
+  "nj_four_eve" : "2987",
+  "nj_four_mid" : "2660"
+}, {
+  "draw_date" : "02/16/2021",
+  "eve_f" : "1",
+  "mid_f" : "8",
+  "nj_four_eve" : "5978",
+  "nj_four_mid" : "5582"
+}, {
+  "draw_date" : "02/15/2021",
+  "eve_f" : "2",
+  "mid_f" : "8",
+  "nj_four_eve" : "1877",
+  "nj_four_mid" : "3738"
+}, {
+  "draw_date" : "02/14/2021",
+  "eve_f" : "8",
+  "mid_f" : "4",
+  "nj_four_eve" : "7657",
+  "nj_four_mid" : "4394"
+}, {
+  "draw_date" : "02/13/2021",
+  "eve_f" : "2",
+  "mid_f" : "7",
+  "nj_four_eve" : "7538",
+  "nj_four_mid" : "1338"
+}, {
+  "draw_date" : "02/12/2021",
+  "eve_f" : "0",
+  "mid_f" : "1",
+  "nj_four_eve" : "1867",
+  "nj_four_mid" : "1457"
+}, {
+  "draw_date" : "02/11/2021",
+  "eve_f" : "2",
+  "mid_f" : "1",
+  "nj_four_eve" : "3306",
+  "nj_four_mid" : "5543"
+}, {
+  "draw_date" : "02/10/2021",
+  "eve_f" : "0",
+  "mid_f" : "7",
+  "nj_four_eve" : "3521",
+  "nj_four_mid" : "4402"
+}, {
+  "draw_date" : "02/09/2021",
+  "eve_f" : "6",
+  "mid_f" : "8",
+  "nj_four_eve" : "7141",
+  "nj_four_mid" : "4479"
+}, {
+  "draw_date" : "02/08/2021",
+  "eve_f" : "0",
+  "mid_f" : "0",
+  "nj_four_eve" : "8909",
+  "nj_four_mid" : "1795"
+}, {
+  "draw_date" : "02/07/2021",
+  "eve_f" : "3",
+  "mid_f" : "1",
+  "nj_four_eve" : "6270",
+  "nj_four_mid" : "6305"
+}, {
+  "draw_date" : "02/06/2021",
+  "eve_f" : "4",
+  "mid_f" : "4",
+  "nj_four_eve" : "4572",
+  "nj_four_mid" : "4790"
+}, {
+  "draw_date" : "02/05/2021",
+  "eve_f" : "4",
+  "mid_f" : "3",
+  "nj_four_eve" : "8929",
+  "nj_four_mid" : "5506"
+}, {
+  "draw_date" : "02/04/2021",
+  "eve_f" : "9",
+  "mid_f" : "3",
+  "nj_four_eve" : "4907",
+  "nj_four_mid" : "2788"
+}, {
+  "draw_date" : "02/03/2021",
+  "eve_f" : "3",
+  "mid_f" : "3",
+  "nj_four_eve" : "0699",
+  "nj_four_mid" : "8019"
+}, {
+  "draw_date" : "02/02/2021",
+  "eve_f" : "3",
+  "mid_f" : "5",
+  "nj_four_eve" : "8615",
+  "nj_four_mid" : "1210"
+}, {
+  "draw_date" : "02/01/2021",
+  "eve_f" : "8",
+  "mid_f" : "9",
+  "nj_four_eve" : "9072",
+  "nj_four_mid" : "7754"
+}, {
+  "draw_date" : "01/31/2021",
+  "eve_f" : "5",
+  "mid_f" : "3",
+  "nj_four_eve" : "3324",
+  "nj_four_mid" : "5850"
+}, {
+  "draw_date" : "01/30/2021",
+  "eve_f" : "2",
+  "mid_f" : "8",
+  "nj_four_eve" : "9564",
+  "nj_four_mid" : "7057"
+}, {
+  "draw_date" : "01/29/2021",
+  "eve_f" : "3",
+  "mid_f" : "7",
+  "nj_four_eve" : "3751",
+  "nj_four_mid" : "0834"
+}, {
+  "draw_date" : "01/28/2021",
+  "eve_f" : "2",
+  "mid_f" : "2",
+  "nj_four_eve" : "9237",
+  "nj_four_mid" : "6848"
+}, {
+  "draw_date" : "01/27/2021",
+  "eve_f" : "2",
+  "mid_f" : "0",
+  "nj_four_eve" : "8251",
+  "nj_four_mid" : "1769"
+}, {
+  "draw_date" : "01/26/2021",
+  "eve_f" : "1",
+  "mid_f" : "6",
+  "nj_four_eve" : "3049",
+  "nj_four_mid" : "2837"
+}, {
+  "draw_date" : "01/25/2021",
+  "eve_f" : "5",
+  "mid_f" : "8",
+  "nj_four_eve" : "6350",
+  "nj_four_mid" : "1382"
+}, {
+  "draw_date" : "01/24/2021",
+  "eve_f" : "2",
+  "mid_f" : "1",
+  "nj_four_eve" : "2353",
+  "nj_four_mid" : "5916"
+}, {
+  "draw_date" : "01/23/2021",
+  "eve_f" : "0",
+  "mid_f" : "0",
+  "nj_four_eve" : "4744",
+  "nj_four_mid" : "7847"
+}, {
+  "draw_date" : "01/22/2021",
+  "eve_f" : "7",
+  "mid_f" : "1",
+  "nj_four_eve" : "5002",
+  "nj_four_mid" : "2106"
+}, {
+  "draw_date" : "01/21/2021",
+  "eve_f" : "5",
+  "mid_f" : "3",
+  "nj_four_eve" : "2702",
+  "nj_four_mid" : "6984"
+}, {
+  "draw_date" : "01/20/2021",
+  "eve_f" : "8",
+  "mid_f" : "3",
+  "nj_four_eve" : "9262",
+  "nj_four_mid" : "7960"
+}, {
+  "draw_date" : "01/19/2021",
+  "eve_f" : "3",
+  "mid_f" : "0",
+  "nj_four_eve" : "4443",
+  "nj_four_mid" : "8421"
+}, {
+  "draw_date" : "01/18/2021",
+  "eve_f" : "5",
+  "mid_f" : "4",
+  "nj_four_eve" : "8832",
+  "nj_four_mid" : "3951"
+}, {
+  "draw_date" : "01/17/2021",
+  "eve_f" : "0",
+  "mid_f" : "1",
+  "nj_four_eve" : "3510",
+  "nj_four_mid" : "9220"
+}, {
+  "draw_date" : "01/16/2021",
+  "eve_f" : "4",
+  "mid_f" : "9",
+  "nj_four_eve" : "9277",
+  "nj_four_mid" : "2467"
+}, {
+  "draw_date" : "01/15/2021",
+  "eve_f" : "7",
+  "mid_f" : "6",
+  "nj_four_eve" : "4584",
+  "nj_four_mid" : "2331"
+}, {
+  "draw_date" : "01/14/2021",
+  "eve_f" : "8",
+  "mid_f" : "1",
+  "nj_four_eve" : "6459",
+  "nj_four_mid" : "1349"
+}, {
+  "draw_date" : "01/13/2021",
+  "eve_f" : "9",
+  "mid_f" : "5",
+  "nj_four_eve" : "5913",
+  "nj_four_mid" : "4968"
+}, {
+  "draw_date" : "01/12/2021",
+  "eve_f" : "2",
+  "mid_f" : "7",
+  "nj_four_eve" : "9509",
+  "nj_four_mid" : "0658"
+}, {
+  "draw_date" : "01/11/2021",
+  "eve_f" : "8",
+  "mid_f" : "9",
+  "nj_four_eve" : "0166",
+  "nj_four_mid" : "6913"
+}, {
+  "draw_date" : "01/10/2021",
+  "eve_f" : "4",
+  "mid_f" : "1",
+  "nj_four_eve" : "3877",
+  "nj_four_mid" : "1649"
+}, {
+  "draw_date" : "01/09/2021",
+  "eve_f" : "1",
+  "mid_f" : "5",
+  "nj_four_eve" : "6981",
+  "nj_four_mid" : "3993"
+}, {
+  "draw_date" : "01/08/2021",
+  "eve_f" : "2",
+  "mid_f" : "5",
+  "nj_four_eve" : "9942",
+  "nj_four_mid" : "9070"
+}, {
+  "draw_date" : "01/07/2021",
+  "eve_f" : "3",
+  "mid_f" : "3",
+  "nj_four_eve" : "8109",
+  "nj_four_mid" : "9999"
+}, {
+  "draw_date" : "01/06/2021",
+  "eve_f" : "7",
+  "mid_f" : "8",
+  "nj_four_eve" : "0704",
+  "nj_four_mid" : "9544"
+}, {
+  "draw_date" : "01/05/2021",
+  "eve_f" : "1",
+  "mid_f" : "5",
+  "nj_four_eve" : "8156",
+  "nj_four_mid" : "4632"
+}, {
+  "draw_date" : "01/04/2021",
+  "eve_f" : "0",
+  "mid_f" : "7",
+  "nj_four_eve" : "1725",
+  "nj_four_mid" : "7082"
+}, {
+  "draw_date" : "01/03/2021",
+  "eve_f" : "8",
+  "mid_f" : "9",
+  "nj_four_eve" : "2266",
+  "nj_four_mid" : "0267"
+}, {
+  "draw_date" : "01/02/2021",
+  "eve_f" : "9",
+  "mid_f" : "7",
+  "nj_four_eve" : "0529",
+  "nj_four_mid" : "3061"
+}, {
+  "draw_date" : "01/01/2021",
+  "eve_f" : "2",
+  "mid_f" : "3",
+  "nj_four_eve" : "0106",
+  "nj_four_mid" : "2233"
+}, {
+  "draw_date" : "12/31/2020",
+  "eve_f" : "5",
+  "mid_f" : "3",
+  "nj_four_eve" : "2399",
+  "nj_four_mid" : "0372"
+}, {
+  "draw_date" : "12/30/2020",
+  "eve_f" : "8",
+  "mid_f" : "5",
+  "nj_four_eve" : "1285",
+  "nj_four_mid" : "2115"
+}, {
+  "draw_date" : "12/29/2020",
+  "eve_f" : "6",
+  "mid_f" : "3",
+  "nj_four_eve" : "2077",
+  "nj_four_mid" : "2071"
+}, {
+  "draw_date" : "12/28/2020",
+  "eve_f" : "2",
+  "mid_f" : "7",
+  "nj_four_eve" : "1602",
+  "nj_four_mid" : "1063"
+}, {
+  "draw_date" : "12/27/2020",
+  "eve_f" : "1",
+  "mid_f" : "1",
+  "nj_four_eve" : "3998",
+  "nj_four_mid" : "5140"
+}, {
+  "draw_date" : "12/26/2020",
+  "eve_f" : "0",
+  "mid_f" : "4",
+  "nj_four_eve" : "6745",
+  "nj_four_mid" : "9883"
+}, {
+  "draw_date" : "12/24/2020",
+  "eve_f" : "0",
+  "mid_f" : "1",
+  "nj_four_eve" : "4644",
+  "nj_four_mid" : "7483"
+}, {
+  "draw_date" : "12/23/2020",
+  "eve_f" : "4",
+  "mid_f" : "5",
+  "nj_four_eve" : "6164",
+  "nj_four_mid" : "6757"
+}, {
+  "draw_date" : "12/22/2020",
+  "eve_f" : "5",
+  "mid_f" : "5",
+  "nj_four_eve" : "1685",
+  "nj_four_mid" : "4281"
+}, {
+  "draw_date" : "12/21/2020",
+  "eve_f" : "7",
+  "mid_f" : "9",
+  "nj_four_eve" : "6894",
+  "nj_four_mid" : "0307"
+}, {
+  "draw_date" : "12/20/2020",
+  "eve_f" : "8",
+  "mid_f" : "6",
+  "nj_four_eve" : "9908",
+  "nj_four_mid" : "9213"
+}, {
+  "draw_date" : "12/19/2020",
+  "eve_f" : "5",
+  "mid_f" : "2",
+  "nj_four_eve" : "1352",
+  "nj_four_mid" : "9155"
+}, {
+  "draw_date" : "12/18/2020",
+  "eve_f" : "8",
+  "mid_f" : "7",
+  "nj_four_eve" : "5111",
+  "nj_four_mid" : "3511"
+}, {
+  "draw_date" : "12/17/2020",
+  "eve_f" : "2",
+  "mid_f" : "4",
+  "nj_four_eve" : "1240",
+  "nj_four_mid" : "1149"
+}, {
+  "draw_date" : "12/16/2020",
+  "eve_f" : "1",
+  "mid_f" : "0",
+  "nj_four_eve" : "2990",
+  "nj_four_mid" : "3658"
+}, {
+  "draw_date" : "12/15/2020",
+  "eve_f" : "4",
+  "mid_f" : "2",
+  "nj_four_eve" : "3764",
+  "nj_four_mid" : "8815"
+}, {
+  "draw_date" : "12/14/2020",
+  "eve_f" : "6",
+  "mid_f" : "2",
+  "nj_four_eve" : "0472",
+  "nj_four_mid" : "2829"
+}, {
+  "draw_date" : "12/13/2020",
+  "eve_f" : "2",
+  "mid_f" : "9",
+  "nj_four_eve" : "9158",
+  "nj_four_mid" : "2444"
+}, {
+  "draw_date" : "12/12/2020",
+  "eve_f" : "2",
+  "mid_f" : "0",
+  "nj_four_eve" : "7737",
+  "nj_four_mid" : "1012"
+}, {
+  "draw_date" : "12/11/2020",
+  "eve_f" : "2",
+  "mid_f" : "2",
+  "nj_four_eve" : "4678",
+  "nj_four_mid" : "8744"
+}, {
+  "draw_date" : "12/10/2020",
+  "eve_f" : "6",
+  "mid_f" : "8",
+  "nj_four_eve" : "8860",
+  "nj_four_mid" : "4069"
+}, {
+  "draw_date" : "12/09/2020",
+  "eve_f" : "7",
+  "mid_f" : "9",
+  "nj_four_eve" : "2181",
+  "nj_four_mid" : "7995"
+}, {
+  "draw_date" : "12/08/2020",
+  "eve_f" : "4",
+  "mid_f" : "9",
+  "nj_four_eve" : "4034",
+  "nj_four_mid" : "4292"
+}, {
+  "draw_date" : "12/07/2020",
+  "eve_f" : "7",
+  "mid_f" : "7",
+  "nj_four_eve" : "3569",
+  "nj_four_mid" : "1506"
+}, {
+  "draw_date" : "12/06/2020",
+  "eve_f" : "6",
+  "mid_f" : "8",
+  "nj_four_eve" : "5372",
+  "nj_four_mid" : "0362"
+}, {
+  "draw_date" : "12/05/2020",
+  "eve_f" : "2",
+  "mid_f" : "8",
+  "nj_four_eve" : "1462",
+  "nj_four_mid" : "1525"
+}, {
+  "draw_date" : "12/04/2020",
+  "eve_f" : "6",
+  "mid_f" : "4",
+  "nj_four_eve" : "0549",
+  "nj_four_mid" : "0463"
+}, {
+  "draw_date" : "12/03/2020",
+  "eve_f" : "8",
+  "mid_f" : "2",
+  "nj_four_eve" : "8698",
+  "nj_four_mid" : "9315"
+}, {
+  "draw_date" : "12/02/2020",
+  "eve_f" : "5",
+  "mid_f" : "6",
+  "nj_four_eve" : "7073",
+  "nj_four_mid" : "9053"
+}, {
+  "draw_date" : "12/01/2020",
+  "eve_f" : "3",
+  "mid_f" : "3",
+  "nj_four_eve" : "3963",
+  "nj_four_mid" : "8979"
+}, {
+  "draw_date" : "11/30/2020",
+  "eve_f" : "3",
+  "mid_f" : "1",
+  "nj_four_eve" : "6402",
+  "nj_four_mid" : "1126"
+}, {
+  "draw_date" : "11/29/2020",
+  "eve_f" : "7",
+  "mid_f" : "4",
+  "nj_four_eve" : "3501",
+  "nj_four_mid" : "4597"
+}, {
+  "draw_date" : "11/28/2020",
+  "eve_f" : "8",
+  "mid_f" : "2",
+  "nj_four_eve" : "7987",
+  "nj_four_mid" : "1411"
+}, {
+  "draw_date" : "11/27/2020",
+  "eve_f" : "5",
+  "mid_f" : "7",
+  "nj_four_eve" : "6824",
+  "nj_four_mid" : "9365"
+}, {
+  "draw_date" : "11/26/2020",
+  "eve_f" : "6",
+  "mid_f" : "8",
+  "nj_four_eve" : "4324",
+  "nj_four_mid" : "8012"
+}, {
+  "draw_date" : "11/25/2020",
+  "eve_f" : "6",
+  "mid_f" : "3",
+  "nj_four_eve" : "9095",
+  "nj_four_mid" : "7581"
+}, {
+  "draw_date" : "11/24/2020",
+  "eve_f" : "6",
+  "mid_f" : "7",
+  "nj_four_eve" : "9720",
+  "nj_four_mid" : "5495"
+}, {
+  "draw_date" : "11/23/2020",
+  "eve_f" : "0",
+  "mid_f" : "7",
+  "nj_four_eve" : "6098",
+  "nj_four_mid" : "5877"
+}, {
+  "draw_date" : "11/22/2020",
+  "eve_f" : "3",
+  "mid_f" : "4",
+  "nj_four_eve" : "6848",
+  "nj_four_mid" : "3205"
+}, {
+  "draw_date" : "11/21/2020",
+  "eve_f" : "4",
+  "mid_f" : "9",
+  "nj_four_eve" : "8956",
+  "nj_four_mid" : "3807"
+}, {
+  "draw_date" : "11/20/2020",
+  "eve_f" : "5",
+  "mid_f" : "4",
+  "nj_four_eve" : "5533",
+  "nj_four_mid" : "2932"
+}, {
+  "draw_date" : "11/19/2020",
+  "eve_f" : "6",
+  "mid_f" : "4",
+  "nj_four_eve" : "7377",
+  "nj_four_mid" : "1290"
+}, {
+  "draw_date" : "11/18/2020",
+  "eve_f" : "8",
+  "mid_f" : "2",
+  "nj_four_eve" : "3580",
+  "nj_four_mid" : "9692"
+}, {
+  "draw_date" : "11/17/2020",
+  "eve_f" : "4",
+  "mid_f" : "9",
+  "nj_four_eve" : "5525",
+  "nj_four_mid" : "4176"
+}, {
+  "draw_date" : "11/16/2020",
+  "eve_f" : "3",
+  "mid_f" : "4",
+  "nj_four_eve" : "2763",
+  "nj_four_mid" : "2066"
+}, {
+  "draw_date" : "11/15/2020",
+  "eve_f" : "7",
+  "mid_f" : "7",
+  "nj_four_eve" : "7540",
+  "nj_four_mid" : "5785"
+}, {
+  "draw_date" : "11/14/2020",
+  "eve_f" : "7",
+  "mid_f" : "6",
+  "nj_four_eve" : "9002",
+  "nj_four_mid" : "3676"
+}, {
+  "draw_date" : "11/13/2020",
+  "eve_f" : "6",
+  "mid_f" : "8",
+  "nj_four_eve" : "9431",
+  "nj_four_mid" : "1359"
+}, {
+  "draw_date" : "11/12/2020",
+  "eve_f" : "0",
+  "mid_f" : "7",
+  "nj_four_eve" : "1701",
+  "nj_four_mid" : "3558"
+}, {
+  "draw_date" : "11/11/2020",
+  "eve_f" : "6",
+  "mid_f" : "9",
+  "nj_four_eve" : "6048",
+  "nj_four_mid" : "0435"
+}, {
+  "draw_date" : "11/10/2020",
+  "eve_f" : "6",
+  "mid_f" : "6",
+  "nj_four_eve" : "7976",
+  "nj_four_mid" : "4364"
+}, {
+  "draw_date" : "11/09/2020",
+  "eve_f" : "0",
+  "mid_f" : "5",
+  "nj_four_eve" : "4025",
+  "nj_four_mid" : "7249"
+}, {
+  "draw_date" : "11/08/2020",
+  "eve_f" : "9",
+  "mid_f" : "5",
+  "nj_four_eve" : "7868",
+  "nj_four_mid" : "9663"
+}, {
+  "draw_date" : "11/07/2020",
+  "eve_f" : "8",
+  "mid_f" : "5",
+  "nj_four_eve" : "8926",
+  "nj_four_mid" : "7746"
+}, {
+  "draw_date" : "11/06/2020",
+  "eve_f" : "2",
+  "mid_f" : "9",
+  "nj_four_eve" : "2354",
+  "nj_four_mid" : "3807"
+}, {
+  "draw_date" : "11/05/2020",
+  "eve_f" : "3",
+  "mid_f" : "2",
+  "nj_four_eve" : "0218",
+  "nj_four_mid" : "6830"
+}, {
+  "draw_date" : "11/04/2020",
+  "eve_f" : "0",
+  "mid_f" : "2",
+  "nj_four_eve" : "5570",
+  "nj_four_mid" : "8969"
+}, {
+  "draw_date" : "11/03/2020",
+  "eve_f" : "8",
+  "mid_f" : "5",
+  "nj_four_eve" : "0826",
+  "nj_four_mid" : "9354"
+}, {
+  "draw_date" : "11/02/2020",
+  "eve_f" : "6",
+  "mid_f" : "4",
+  "nj_four_eve" : "7404",
+  "nj_four_mid" : "7046"
+}, {
+  "draw_date" : "11/01/2020",
+  "eve_f" : "4",
+  "mid_f" : "1",
+  "nj_four_eve" : "9906",
+  "nj_four_mid" : "1642"
+}, {
+  "draw_date" : "10/31/2020",
+  "eve_f" : "4",
+  "mid_f" : "2",
+  "nj_four_eve" : "3564",
+  "nj_four_mid" : "2369"
+}, {
+  "draw_date" : "10/30/2020",
+  "eve_f" : "1",
+  "mid_f" : "0",
+  "nj_four_eve" : "0474",
+  "nj_four_mid" : "6049"
+}, {
+  "draw_date" : "10/29/2020",
+  "eve_f" : "2",
+  "mid_f" : "7",
+  "nj_four_eve" : "0826",
+  "nj_four_mid" : "7256"
+}, {
+  "draw_date" : "10/28/2020",
+  "eve_f" : "2",
+  "mid_f" : "5",
+  "nj_four_eve" : "9656",
+  "nj_four_mid" : "4077"
+}, {
+  "draw_date" : "10/27/2020",
+  "eve_f" : "8",
+  "mid_f" : "1",
+  "nj_four_eve" : "5887",
+  "nj_four_mid" : "2514"
+}, {
+  "draw_date" : "10/26/2020",
+  "eve_f" : "3",
+  "mid_f" : "6",
+  "nj_four_eve" : "7383",
+  "nj_four_mid" : "1264"
+}, {
+  "draw_date" : "10/25/2020",
+  "eve_f" : "0",
+  "mid_f" : "0",
+  "nj_four_eve" : "6056",
+  "nj_four_mid" : "9877"
+}, {
+  "draw_date" : "10/24/2020",
+  "eve_f" : "5",
+  "mid_f" : "9",
+  "nj_four_eve" : "5243",
+  "nj_four_mid" : "5467"
+}, {
+  "draw_date" : "10/23/2020",
+  "eve_f" : "7",
+  "mid_f" : "4",
+  "nj_four_eve" : "6749",
+  "nj_four_mid" : "2677"
+}, {
+  "draw_date" : "10/22/2020",
+  "eve_f" : "0",
+  "mid_f" : "6",
+  "nj_four_eve" : "5513",
+  "nj_four_mid" : "6339"
+}, {
+  "draw_date" : "10/21/2020",
+  "eve_f" : "9",
+  "mid_f" : "6",
+  "nj_four_eve" : "5393",
+  "nj_four_mid" : "6738"
+}, {
+  "draw_date" : "10/20/2020",
+  "eve_f" : "0",
+  "mid_f" : "6",
+  "nj_four_eve" : "6287",
+  "nj_four_mid" : "1893"
+}, {
+  "draw_date" : "10/19/2020",
+  "eve_f" : "8",
+  "mid_f" : "2",
+  "nj_four_eve" : "2383",
+  "nj_four_mid" : "0058"
+}, {
+  "draw_date" : "10/18/2020",
+  "eve_f" : "5",
+  "mid_f" : "8",
+  "nj_four_eve" : "1102",
+  "nj_four_mid" : "7289"
+}, {
+  "draw_date" : "10/17/2020",
+  "eve_f" : "4",
+  "mid_f" : "3",
+  "nj_four_eve" : "4623",
+  "nj_four_mid" : "4842"
+}, {
+  "draw_date" : "10/16/2020",
+  "eve_f" : "6",
+  "mid_f" : "8",
+  "nj_four_eve" : "8988",
+  "nj_four_mid" : "9152"
+}, {
+  "draw_date" : "10/15/2020",
+  "eve_f" : "5",
+  "mid_f" : "6",
+  "nj_four_eve" : "1631",
+  "nj_four_mid" : "6354"
+}, {
+  "draw_date" : "10/14/2020",
+  "eve_f" : "5",
+  "mid_f" : "1",
+  "nj_four_eve" : "6364",
+  "nj_four_mid" : "9807"
+}, {
+  "draw_date" : "10/13/2020",
+  "eve_f" : "5",
+  "mid_f" : "5",
+  "nj_four_eve" : "8283",
+  "nj_four_mid" : "9886"
+}, {
+  "draw_date" : "10/12/2020",
+  "eve_f" : "6",
+  "mid_f" : "0",
+  "nj_four_eve" : "8529",
+  "nj_four_mid" : "6245"
+}, {
+  "draw_date" : "10/11/2020",
+  "eve_f" : "0",
+  "mid_f" : "7",
+  "nj_four_eve" : "2334",
+  "nj_four_mid" : "2522"
+}, {
+  "draw_date" : "10/10/2020",
+  "eve_f" : "1",
+  "mid_f" : "0",
+  "nj_four_eve" : "0319",
+  "nj_four_mid" : "2814"
+}, {
+  "draw_date" : "10/09/2020",
+  "eve_f" : "6",
+  "mid_f" : "6",
+  "nj_four_eve" : "7981",
+  "nj_four_mid" : "1458"
+}, {
+  "draw_date" : "10/08/2020",
+  "eve_f" : "7",
+  "mid_f" : "0",
+  "nj_four_eve" : "3595",
+  "nj_four_mid" : "7504"
+}, {
+  "draw_date" : "10/07/2020",
+  "eve_f" : "4",
+  "mid_f" : "1",
+  "nj_four_eve" : "6050",
+  "nj_four_mid" : "5018"
+}, {
+  "draw_date" : "10/06/2020",
+  "eve_f" : "2",
+  "mid_f" : "4",
+  "nj_four_eve" : "6648",
+  "nj_four_mid" : "9971"
+}, {
+  "draw_date" : "10/05/2020",
+  "eve_f" : "3",
+  "mid_f" : "2",
+  "nj_four_eve" : "9053",
+  "nj_four_mid" : "4600"
+}, {
+  "draw_date" : "10/04/2020",
+  "eve_f" : "7",
+  "mid_f" : "1",
+  "nj_four_eve" : "2788",
+  "nj_four_mid" : "9239"
+}, {
+  "draw_date" : "10/03/2020",
+  "eve_f" : "4",
+  "mid_f" : "2",
+  "nj_four_eve" : "6225",
+  "nj_four_mid" : "8392"
+}, {
+  "draw_date" : "10/02/2020",
+  "eve_f" : "9",
+  "mid_f" : "2",
+  "nj_four_eve" : "2317",
+  "nj_four_mid" : "1916"
+}, {
+  "draw_date" : "10/01/2020",
+  "eve_f" : "3",
+  "mid_f" : "9",
+  "nj_four_eve" : "9926",
+  "nj_four_mid" : "6152"
+}, {
+  "draw_date" : "09/30/2020",
+  "eve_f" : "6",
+  "mid_f" : "3",
+  "nj_four_eve" : "5016",
+  "nj_four_mid" : "0242"
+}, {
+  "draw_date" : "09/29/2020",
+  "eve_f" : "5",
+  "mid_f" : "5",
+  "nj_four_eve" : "9908",
+  "nj_four_mid" : "1160"
+}, {
+  "draw_date" : "09/28/2020",
+  "eve_f" : "3",
+  "mid_f" : "0",
+  "nj_four_eve" : "4718",
+  "nj_four_mid" : "5195"
+}, {
+  "draw_date" : "09/27/2020",
+  "eve_f" : "9",
+  "mid_f" : "0",
+  "nj_four_eve" : "4983",
+  "nj_four_mid" : "6094"
+}, {
+  "draw_date" : "09/26/2020",
+  "eve_f" : "9",
+  "mid_f" : "2",
+  "nj_four_eve" : "7691",
+  "nj_four_mid" : "4939"
+}, {
+  "draw_date" : "09/25/2020",
+  "eve_f" : "6",
+  "mid_f" : "9",
+  "nj_four_eve" : "3887",
+  "nj_four_mid" : "4099"
+}, {
+  "draw_date" : "09/24/2020",
+  "eve_f" : "2",
+  "mid_f" : "2",
+  "nj_four_eve" : "2967",
+  "nj_four_mid" : "8821"
+}, {
+  "draw_date" : "09/23/2020",
+  "eve_f" : "8",
+  "mid_f" : "5",
+  "nj_four_eve" : "0907",
+  "nj_four_mid" : "8626"
+}, {
+  "draw_date" : "09/22/2020",
+  "eve_f" : "3",
+  "mid_f" : "9",
+  "nj_four_eve" : "4179",
+  "nj_four_mid" : "2941"
+}, {
+  "draw_date" : "09/21/2020",
+  "eve_f" : "1",
+  "mid_f" : "9",
+  "nj_four_eve" : "9268",
+  "nj_four_mid" : "9959"
+}, {
+  "draw_date" : "09/20/2020",
+  "eve_f" : "9",
+  "mid_f" : "9",
+  "nj_four_eve" : "5224",
+  "nj_four_mid" : "4477"
+}, {
+  "draw_date" : "09/19/2020",
+  "eve_f" : "5",
+  "mid_f" : "9",
+  "nj_four_eve" : "4373",
+  "nj_four_mid" : "8011"
+}, {
+  "draw_date" : "09/18/2020",
+  "eve_f" : "0",
+  "mid_f" : "3",
+  "nj_four_eve" : "1576",
+  "nj_four_mid" : "2882"
+}, {
+  "draw_date" : "09/17/2020",
+  "eve_f" : "3",
+  "mid_f" : "9",
+  "nj_four_eve" : "9126",
+  "nj_four_mid" : "5596"
+}, {
+  "draw_date" : "09/16/2020",
+  "eve_f" : "8",
+  "mid_f" : "9",
+  "nj_four_eve" : "5531",
+  "nj_four_mid" : "0857"
+}, {
+  "draw_date" : "09/15/2020",
+  "eve_f" : "5",
+  "mid_f" : "1",
+  "nj_four_eve" : "9221",
+  "nj_four_mid" : "5585"
+}, {
+  "draw_date" : "09/14/2020",
+  "eve_f" : "9",
+  "mid_f" : "9",
+  "nj_four_eve" : "8560",
+  "nj_four_mid" : "7043"
+}, {
+  "draw_date" : "09/13/2020",
+  "eve_f" : "7",
+  "mid_f" : "5",
+  "nj_four_eve" : "7586",
+  "nj_four_mid" : "5658"
+}, {
+  "draw_date" : "09/12/2020",
+  "eve_f" : "2",
+  "mid_f" : "6",
+  "nj_four_eve" : "6222",
+  "nj_four_mid" : "2546"
+}, {
+  "draw_date" : "09/11/2020",
+  "eve_f" : "1",
+  "mid_f" : "5",
+  "nj_four_eve" : "9499",
+  "nj_four_mid" : "5622"
+}, {
+  "draw_date" : "09/10/2020",
+  "eve_f" : "4",
+  "mid_f" : "2",
+  "nj_four_eve" : "7388",
+  "nj_four_mid" : "4169"
+}, {
+  "draw_date" : "09/09/2020",
+  "eve_f" : "4",
+  "mid_f" : "8",
+  "nj_four_eve" : "3996",
+  "nj_four_mid" : "8841"
+}, {
+  "draw_date" : "09/08/2020",
+  "eve_f" : "1",
+  "mid_f" : "3",
+  "nj_four_eve" : "1107",
+  "nj_four_mid" : "3239"
+}, {
+  "draw_date" : "09/07/2020",
+  "eve_f" : "7",
+  "mid_f" : "6",
+  "nj_four_eve" : "8681",
+  "nj_four_mid" : "1290"
+}, {
+  "draw_date" : "09/06/2020",
+  "eve_f" : "8",
+  "mid_f" : "2",
+  "nj_four_eve" : "3330",
+  "nj_four_mid" : "3610"
+}, {
+  "draw_date" : "09/05/2020",
+  "eve_f" : "8",
+  "mid_f" : "2",
+  "nj_four_eve" : "2740",
+  "nj_four_mid" : "0695"
+}, {
+  "draw_date" : "09/04/2020",
+  "eve_f" : "5",
+  "mid_f" : "1",
+  "nj_four_eve" : "6108",
+  "nj_four_mid" : "8027"
+}, {
+  "draw_date" : "09/03/2020",
+  "eve_f" : "5",
+  "mid_f" : "5",
+  "nj_four_eve" : "5712",
+  "nj_four_mid" : "2931"
+}, {
+  "draw_date" : "09/02/2020",
+  "eve_f" : "6",
+  "mid_f" : "9",
+  "nj_four_eve" : "9070",
+  "nj_four_mid" : "1332"
+}, {
+  "draw_date" : "09/01/2020",
+  "eve_f" : "4",
+  "mid_f" : "4",
+  "nj_four_eve" : "4100",
+  "nj_four_mid" : "7828"
+}, {
+  "draw_date" : "08/31/2020",
+  "eve_f" : "9",
+  "mid_f" : "0",
+  "nj_four_eve" : "7419",
+  "nj_four_mid" : "7359"
+}, {
+  "draw_date" : "08/30/2020",
+  "eve_f" : "3",
+  "mid_f" : "3",
+  "nj_four_eve" : "3419",
+  "nj_four_mid" : "4424"
+}, {
+  "draw_date" : "08/29/2020",
+  "eve_f" : "8",
+  "mid_f" : "4",
+  "nj_four_eve" : "0953",
+  "nj_four_mid" : "6210"
+}, {
+  "draw_date" : "08/28/2020",
+  "eve_f" : "4",
+  "mid_f" : "7",
+  "nj_four_eve" : "7693",
+  "nj_four_mid" : "6173"
+}, {
+  "draw_date" : "08/27/2020",
+  "eve_f" : "3",
+  "mid_f" : "0",
+  "nj_four_eve" : "4245",
+  "nj_four_mid" : "4592"
+}, {
+  "draw_date" : "08/26/2020",
+  "eve_f" : "6",
+  "mid_f" : "2",
+  "nj_four_eve" : "2555",
+  "nj_four_mid" : "5236"
+}, {
+  "draw_date" : "08/25/2020",
+  "eve_f" : "7",
+  "mid_f" : "0",
+  "nj_four_eve" : "4198",
+  "nj_four_mid" : "0433"
+}, {
+  "draw_date" : "08/24/2020",
+  "eve_f" : "0",
+  "mid_f" : "0",
+  "nj_four_eve" : "8129",
+  "nj_four_mid" : "1721"
+}, {
+  "draw_date" : "08/23/2020",
+  "eve_f" : "3",
+  "mid_f" : "5",
+  "nj_four_eve" : "8265",
+  "nj_four_mid" : "0561"
+}, {
+  "draw_date" : "08/22/2020",
+  "eve_f" : "1",
+  "mid_f" : "4",
+  "nj_four_eve" : "2234",
+  "nj_four_mid" : "3940"
+}, {
+  "draw_date" : "08/21/2020",
+  "eve_f" : "8",
+  "mid_f" : "7",
+  "nj_four_eve" : "2709",
+  "nj_four_mid" : "9713"
+}, {
+  "draw_date" : "08/20/2020",
+  "eve_f" : "0",
+  "mid_f" : "5",
+  "nj_four_eve" : "2298",
+  "nj_four_mid" : "8218"
+}, {
+  "draw_date" : "08/19/2020",
+  "eve_f" : "1",
+  "mid_f" : "9",
+  "nj_four_eve" : "0234",
+  "nj_four_mid" : "0599"
+}, {
+  "draw_date" : "08/18/2020",
+  "eve_f" : "6",
+  "mid_f" : "5",
+  "nj_four_eve" : "6689",
+  "nj_four_mid" : "7539"
+}, {
+  "draw_date" : "08/17/2020",
+  "eve_f" : "2",
+  "mid_f" : "8",
+  "nj_four_eve" : "3342",
+  "nj_four_mid" : "0668"
+}, {
+  "draw_date" : "08/16/2020",
+  "eve_f" : "2",
+  "mid_f" : "2",
+  "nj_four_eve" : "0487",
+  "nj_four_mid" : "5971"
+}, {
+  "draw_date" : "08/15/2020",
+  "eve_f" : "2",
+  "mid_f" : "5",
+  "nj_four_eve" : "5391",
+  "nj_four_mid" : "0861"
+}, {
+  "draw_date" : "08/14/2020",
+  "eve_f" : "0",
+  "mid_f" : "0",
+  "nj_four_eve" : "2455",
+  "nj_four_mid" : "7156"
+}, {
+  "draw_date" : "08/13/2020",
+  "eve_f" : "8",
+  "mid_f" : "9",
+  "nj_four_eve" : "7623",
+  "nj_four_mid" : "4114"
+}, {
+  "draw_date" : "08/12/2020",
+  "eve_f" : "8",
+  "mid_f" : "9",
+  "nj_four_eve" : "7586",
+  "nj_four_mid" : "6818"
+}, {
+  "draw_date" : "08/11/2020",
+  "eve_f" : "2",
+  "mid_f" : "0",
+  "nj_four_eve" : "3867",
+  "nj_four_mid" : "6068"
+}, {
+  "draw_date" : "08/10/2020",
+  "eve_f" : "0",
+  "mid_f" : "0",
+  "nj_four_eve" : "7895",
+  "nj_four_mid" : "3967"
+}, {
+  "draw_date" : "08/09/2020",
+  "eve_f" : "3",
+  "mid_f" : "3",
+  "nj_four_eve" : "2809",
+  "nj_four_mid" : "2745"
+}, {
+  "draw_date" : "08/08/2020",
+  "eve_f" : "9",
+  "mid_f" : "0",
+  "nj_four_eve" : "1207",
+  "nj_four_mid" : "3791"
+}, {
+  "draw_date" : "08/07/2020",
+  "eve_f" : "8",
+  "mid_f" : "3",
+  "nj_four_eve" : "4373",
+  "nj_four_mid" : "3168"
+}, {
+  "draw_date" : "08/06/2020",
+  "eve_f" : "5",
+  "mid_f" : "7",
+  "nj_four_eve" : "0671",
+  "nj_four_mid" : "4120"
+}, {
+  "draw_date" : "08/05/2020",
+  "eve_f" : "2",
+  "mid_f" : "3",
+  "nj_four_eve" : "7542",
+  "nj_four_mid" : "2622"
+}, {
+  "draw_date" : "08/04/2020",
+  "eve_f" : "8",
+  "mid_f" : "6",
+  "nj_four_eve" : "7625",
+  "nj_four_mid" : "8854"
+}, {
+  "draw_date" : "08/03/2020",
+  "eve_f" : "9",
+  "mid_f" : "2",
+  "nj_four_eve" : "3725",
+  "nj_four_mid" : "1301"
+}, {
+  "draw_date" : "08/02/2020",
+  "eve_f" : "2",
+  "mid_f" : "8",
+  "nj_four_eve" : "1465",
+  "nj_four_mid" : "5806"
+}, {
+  "draw_date" : "08/01/2020",
+  "eve_f" : "9",
+  "mid_f" : "2",
+  "nj_four_eve" : "7766",
+  "nj_four_mid" : "9130"
+}, {
+  "draw_date" : "07/31/2020",
+  "eve_f" : "9",
+  "mid_f" : "2",
+  "nj_four_eve" : "4333",
+  "nj_four_mid" : "3212"
+}, {
+  "draw_date" : "07/30/2020",
+  "eve_f" : "5",
+  "mid_f" : "1",
+  "nj_four_eve" : "3106",
+  "nj_four_mid" : "4674"
+}, {
+  "draw_date" : "07/29/2020",
+  "eve_f" : "7",
+  "mid_f" : "7",
+  "nj_four_eve" : "5288",
+  "nj_four_mid" : "4064"
+}, {
+  "draw_date" : "07/28/2020",
+  "eve_f" : "4",
+  "mid_f" : "0",
+  "nj_four_eve" : "5581",
+  "nj_four_mid" : "9877"
+}, {
+  "draw_date" : "07/27/2020",
+  "eve_f" : "5",
+  "mid_f" : "3",
+  "nj_four_eve" : "3535",
+  "nj_four_mid" : "3285"
+}, {
+  "draw_date" : "07/26/2020",
+  "eve_f" : "5",
+  "mid_f" : "6",
+  "nj_four_eve" : "9846",
+  "nj_four_mid" : "1243"
+}, {
+  "draw_date" : "07/25/2020",
+  "eve_f" : "7",
+  "mid_f" : "7",
+  "nj_four_eve" : "3261",
+  "nj_four_mid" : "8646"
+}, {
+  "draw_date" : "07/24/2020",
+  "eve_f" : "4",
+  "mid_f" : "6",
+  "nj_four_eve" : "7725",
+  "nj_four_mid" : "1085"
+}, {
+  "draw_date" : "07/23/2020",
+  "eve_f" : "3",
+  "mid_f" : "3",
+  "nj_four_eve" : "9911",
+  "nj_four_mid" : "3723"
+}, {
+  "draw_date" : "07/22/2020",
+  "eve_f" : "6",
+  "mid_f" : "9",
+  "nj_four_eve" : "1258",
+  "nj_four_mid" : "6656"
+}, {
+  "draw_date" : "07/21/2020",
+  "eve_f" : "5",
+  "mid_f" : "8",
+  "nj_four_eve" : "0369",
+  "nj_four_mid" : "3485"
+}, {
+  "draw_date" : "07/20/2020",
+  "eve_f" : "4",
+  "mid_f" : "0",
+  "nj_four_eve" : "6922",
+  "nj_four_mid" : "3960"
+}, {
+  "draw_date" : "07/19/2020",
+  "eve_f" : "8",
+  "mid_f" : "6",
+  "nj_four_eve" : "1380",
+  "nj_four_mid" : "7687"
+}, {
+  "draw_date" : "07/18/2020",
+  "eve_f" : "0",
+  "mid_f" : "2",
+  "nj_four_eve" : "1274",
+  "nj_four_mid" : "5227"
+}, {
+  "draw_date" : "07/17/2020",
+  "eve_f" : "8",
+  "mid_f" : "9",
+  "nj_four_eve" : "3039",
+  "nj_four_mid" : "2147"
+}, {
+  "draw_date" : "07/16/2020",
+  "eve_f" : "9",
+  "mid_f" : "7",
+  "nj_four_eve" : "1724",
+  "nj_four_mid" : "7907"
+}, {
+  "draw_date" : "07/15/2020",
+  "eve_f" : "5",
+  "mid_f" : "6",
+  "nj_four_eve" : "6712",
+  "nj_four_mid" : "6850"
+}, {
+  "draw_date" : "07/14/2020",
+  "eve_f" : "2",
+  "mid_f" : "5",
+  "nj_four_eve" : "4538",
+  "nj_four_mid" : "2686"
+}, {
+  "draw_date" : "07/13/2020",
+  "eve_f" : "5",
+  "mid_f" : "1",
+  "nj_four_eve" : "7411",
+  "nj_four_mid" : "8713"
+}, {
+  "draw_date" : "07/12/2020",
+  "eve_f" : "3",
+  "mid_f" : "2",
+  "nj_four_eve" : "3200",
+  "nj_four_mid" : "1822"
+}, {
+  "draw_date" : "07/11/2020",
+  "eve_f" : "9",
+  "mid_f" : "1",
+  "nj_four_eve" : "1926",
+  "nj_four_mid" : "3243"
+}, {
+  "draw_date" : "07/10/2020",
+  "eve_f" : "0",
+  "mid_f" : "8",
+  "nj_four_eve" : "4717",
+  "nj_four_mid" : "7922"
+}, {
+  "draw_date" : "07/09/2020",
+  "eve_f" : "2",
+  "mid_f" : "7",
+  "nj_four_eve" : "0024",
+  "nj_four_mid" : "3638"
+}, {
+  "draw_date" : "07/08/2020",
+  "eve_f" : "1",
+  "mid_f" : "0",
+  "nj_four_eve" : "1375",
+  "nj_four_mid" : "8810"
+}, {
+  "draw_date" : "07/07/2020",
+  "eve_f" : "9",
+  "mid_f" : "1",
+  "nj_four_eve" : "5971",
+  "nj_four_mid" : "0578"
+}, {
+  "draw_date" : "07/06/2020",
+  "eve_f" : "0",
+  "mid_f" : "6",
+  "nj_four_eve" : "8112",
+  "nj_four_mid" : "6469"
+}, {
+  "draw_date" : "07/05/2020",
+  "eve_f" : "4",
+  "mid_f" : "6",
+  "nj_four_eve" : "2939",
+  "nj_four_mid" : "6905"
+}, {
+  "draw_date" : "07/04/2020",
+  "eve_f" : "5",
+  "mid_f" : "9",
+  "nj_four_eve" : "4725",
+  "nj_four_mid" : "5666"
+}, {
+  "draw_date" : "07/03/2020",
+  "eve_f" : "0",
+  "mid_f" : "9",
+  "nj_four_eve" : "4060",
+  "nj_four_mid" : "3742"
+}, {
+  "draw_date" : "07/02/2020",
+  "eve_f" : "9",
+  "mid_f" : "3",
+  "nj_four_eve" : "4796",
+  "nj_four_mid" : "1502"
+}, {
+  "draw_date" : "07/01/2020",
+  "eve_f" : "3",
+  "mid_f" : "0",
+  "nj_four_eve" : "6247",
+  "nj_four_mid" : "2981"
+}, {
+  "draw_date" : "06/30/2020",
+  "eve_f" : "2",
+  "mid_f" : "4",
+  "nj_four_eve" : "3768",
+  "nj_four_mid" : "9896"
+}, {
+  "draw_date" : "06/29/2020",
+  "eve_f" : "5",
+  "mid_f" : "9",
+  "nj_four_eve" : "4535",
+  "nj_four_mid" : "1046"
+}, {
+  "draw_date" : "06/28/2020",
+  "eve_f" : "4",
+  "mid_f" : "0",
+  "nj_four_eve" : "9082",
+  "nj_four_mid" : "6784"
+}, {
+  "draw_date" : "06/27/2020",
+  "eve_f" : "0",
+  "mid_f" : "4",
+  "nj_four_eve" : "6494",
+  "nj_four_mid" : "5546"
+}, {
+  "draw_date" : "06/26/2020",
+  "eve_f" : "0",
+  "mid_f" : "9",
+  "nj_four_eve" : "8228",
+  "nj_four_mid" : "6309"
+}, {
+  "draw_date" : "06/25/2020",
+  "eve_f" : "5",
+  "mid_f" : "9",
+  "nj_four_eve" : "4397",
+  "nj_four_mid" : "9204"
+}, {
+  "draw_date" : "06/24/2020",
+  "eve_f" : "7",
+  "mid_f" : "1",
+  "nj_four_eve" : "5491",
+  "nj_four_mid" : "1730"
+}, {
+  "draw_date" : "06/23/2020",
+  "eve_f" : "7",
+  "mid_f" : "9",
+  "nj_four_eve" : "8226",
+  "nj_four_mid" : "3052"
+}, {
+  "draw_date" : "06/22/2020",
+  "eve_f" : "6",
+  "mid_f" : "4",
+  "nj_four_eve" : "3658",
+  "nj_four_mid" : "6452"
+}, {
+  "draw_date" : "06/21/2020",
+  "eve_f" : "9",
+  "mid_f" : "0",
+  "nj_four_eve" : "7119",
+  "nj_four_mid" : "3275"
+}, {
+  "draw_date" : "06/20/2020",
+  "eve_f" : "6",
+  "mid_f" : "5",
+  "nj_four_eve" : "0354",
+  "nj_four_mid" : "2426"
+}, {
+  "draw_date" : "06/19/2020",
+  "eve_f" : "8",
+  "mid_f" : "0",
+  "nj_four_eve" : "7919",
+  "nj_four_mid" : "1070"
+}, {
+  "draw_date" : "06/18/2020",
+  "eve_f" : "7",
+  "mid_f" : "6",
+  "nj_four_eve" : "8323",
+  "nj_four_mid" : "9286"
+}, {
+  "draw_date" : "06/17/2020",
+  "eve_f" : "0",
+  "mid_f" : "4",
+  "nj_four_eve" : "6799",
+  "nj_four_mid" : "5437"
+}, {
+  "draw_date" : "06/16/2020",
+  "eve_f" : "5",
+  "mid_f" : "5",
+  "nj_four_eve" : "7351",
+  "nj_four_mid" : "9980"
+}, {
+  "draw_date" : "06/15/2020",
+  "eve_f" : "2",
+  "mid_f" : "7",
+  "nj_four_eve" : "1397",
+  "nj_four_mid" : "4735"
+}, {
+  "draw_date" : "06/14/2020",
+  "eve_f" : "0",
+  "mid_f" : "1",
+  "nj_four_eve" : "2617",
+  "nj_four_mid" : "7757"
+}, {
+  "draw_date" : "06/13/2020",
+  "eve_f" : "2",
+  "mid_f" : "7",
+  "nj_four_eve" : "8158",
+  "nj_four_mid" : "2495"
+}, {
+  "draw_date" : "06/12/2020",
+  "eve_f" : "7",
+  "mid_f" : "9",
+  "nj_four_eve" : "4831",
+  "nj_four_mid" : "8987"
+}, {
+  "draw_date" : "06/11/2020",
+  "eve_f" : "4",
+  "mid_f" : "7",
+  "nj_four_eve" : "4638",
+  "nj_four_mid" : "2746"
+}, {
+  "draw_date" : "06/10/2020",
+  "eve_f" : "3",
+  "mid_f" : "2",
+  "nj_four_eve" : "6018",
+  "nj_four_mid" : "0947"
+}, {
+  "draw_date" : "06/09/2020",
+  "eve_f" : "3",
+  "mid_f" : "8",
+  "nj_four_eve" : "6780",
+  "nj_four_mid" : "7875"
+}, {
+  "draw_date" : "06/08/2020",
+  "eve_f" : "2",
+  "mid_f" : "6",
+  "nj_four_eve" : "5698",
+  "nj_four_mid" : "9934"
+}, {
+  "draw_date" : "06/07/2020",
+  "eve_f" : "5",
+  "mid_f" : "6",
+  "nj_four_eve" : "9707",
+  "nj_four_mid" : "3310"
+}, {
+  "draw_date" : "06/06/2020",
+  "eve_f" : "1",
+  "mid_f" : "7",
+  "nj_four_eve" : "2981",
+  "nj_four_mid" : "9409"
+}, {
+  "draw_date" : "06/05/2020",
+  "eve_f" : "1",
+  "mid_f" : "9",
+  "nj_four_eve" : "0868",
+  "nj_four_mid" : "1924"
+}, {
+  "draw_date" : "06/04/2020",
+  "eve_f" : "3",
+  "mid_f" : "2",
+  "nj_four_eve" : "0363",
+  "nj_four_mid" : "1426"
+}, {
+  "draw_date" : "06/03/2020",
+  "eve_f" : "3",
+  "mid_f" : "2",
+  "nj_four_eve" : "0437",
+  "nj_four_mid" : "4361"
+}, {
+  "draw_date" : "06/02/2020",
+  "eve_f" : "5",
+  "mid_f" : "4",
+  "nj_four_eve" : "8543",
+  "nj_four_mid" : "1328"
+}, {
+  "draw_date" : "06/01/2020",
+  "eve_f" : "5",
+  "mid_f" : "9",
+  "nj_four_eve" : "5582",
+  "nj_four_mid" : "3911"
+}, {
+  "draw_date" : "05/31/2020",
+  "eve_f" : "9",
+  "mid_f" : "6",
+  "nj_four_eve" : "3004",
+  "nj_four_mid" : "6789"
+}, {
+  "draw_date" : "05/30/2020",
+  "eve_f" : "9",
+  "mid_f" : "8",
+  "nj_four_eve" : "4720",
+  "nj_four_mid" : "9917"
+}, {
+  "draw_date" : "05/29/2020",
+  "eve_f" : "2",
+  "mid_f" : "4",
+  "nj_four_eve" : "2138",
+  "nj_four_mid" : "4786"
+}, {
+  "draw_date" : "05/28/2020",
+  "eve_f" : "3",
+  "mid_f" : "8",
+  "nj_four_eve" : "5935",
+  "nj_four_mid" : "3662"
+}, {
+  "draw_date" : "05/27/2020",
+  "eve_f" : "7",
+  "mid_f" : "9",
+  "nj_four_eve" : "5343",
+  "nj_four_mid" : "5135"
+}, {
+  "draw_date" : "05/26/2020",
+  "eve_f" : "5",
+  "mid_f" : "7",
+  "nj_four_eve" : "5763",
+  "nj_four_mid" : "5085"
+}, {
+  "draw_date" : "05/25/2020",
+  "eve_f" : "1",
+  "mid_f" : "7",
+  "nj_four_eve" : "4135",
+  "nj_four_mid" : "0209"
+}, {
+  "draw_date" : "05/24/2020",
+  "eve_f" : "6",
+  "mid_f" : "1",
+  "nj_four_eve" : "9540",
+  "nj_four_mid" : "4701"
+}, {
+  "draw_date" : "05/23/2020",
+  "eve_f" : "0",
+  "mid_f" : "5",
+  "nj_four_eve" : "8722",
+  "nj_four_mid" : "9504"
+}, {
+  "draw_date" : "05/22/2020",
+  "eve_f" : "6",
+  "mid_f" : "5",
+  "nj_four_eve" : "1130",
+  "nj_four_mid" : "3741"
+}, {
+  "draw_date" : "05/21/2020",
+  "eve_f" : "9",
+  "mid_f" : "4",
+  "nj_four_eve" : "1656",
+  "nj_four_mid" : "8918"
+}, {
+  "draw_date" : "05/20/2020",
+  "eve_f" : "7",
+  "mid_f" : "1",
+  "nj_four_eve" : "0353",
+  "nj_four_mid" : "6834"
+}, {
+  "draw_date" : "05/19/2020",
+  "eve_f" : "1",
+  "mid_f" : "5",
+  "nj_four_eve" : "1961",
+  "nj_four_mid" : "2679"
+}, {
+  "draw_date" : "05/18/2020",
+  "eve_f" : "1",
+  "mid_f" : "4",
+  "nj_four_eve" : "6571",
+  "nj_four_mid" : "2341"
+}, {
+  "draw_date" : "05/17/2020",
+  "eve_f" : "6",
+  "mid_f" : "8",
+  "nj_four_eve" : "9909",
+  "nj_four_mid" : "1523"
+}, {
+  "draw_date" : "05/16/2020",
+  "eve_f" : "7",
+  "mid_f" : "3",
+  "nj_four_eve" : "7485",
+  "nj_four_mid" : "0991"
+}, {
+  "draw_date" : "05/15/2020",
+  "eve_f" : "2",
+  "mid_f" : "2",
+  "nj_four_eve" : "1774",
+  "nj_four_mid" : "4495"
+}, {
+  "draw_date" : "05/14/2020",
+  "eve_f" : "1",
+  "mid_f" : "6",
+  "nj_four_eve" : "2513",
+  "nj_four_mid" : "7353"
+}, {
+  "draw_date" : "05/13/2020",
+  "eve_f" : "7",
+  "mid_f" : "3",
+  "nj_four_eve" : "7775",
+  "nj_four_mid" : "2522"
+}, {
+  "draw_date" : "05/12/2020",
+  "eve_f" : "2",
+  "mid_f" : "2",
+  "nj_four_eve" : "0129",
+  "nj_four_mid" : "9433"
+}, {
+  "draw_date" : "05/11/2020",
+  "eve_f" : "0",
+  "mid_f" : "4",
+  "nj_four_eve" : "3454",
+  "nj_four_mid" : "7870"
+}, {
+  "draw_date" : "05/10/2020",
+  "eve_f" : "2",
+  "mid_f" : "0",
+  "nj_four_eve" : "2272",
+  "nj_four_mid" : "7395"
+}, {
+  "draw_date" : "05/09/2020",
+  "eve_f" : "4",
+  "mid_f" : "6",
+  "nj_four_eve" : "6546",
+  "nj_four_mid" : "9686"
+}, {
+  "draw_date" : "05/08/2020",
+  "eve_f" : "7",
+  "mid_f" : "9",
+  "nj_four_eve" : "4732",
+  "nj_four_mid" : "5505"
+}, {
+  "draw_date" : "05/07/2020",
+  "eve_f" : "1",
+  "mid_f" : "7",
+  "nj_four_eve" : "2148",
+  "nj_four_mid" : "9214"
+}, {
+  "draw_date" : "05/06/2020",
+  "eve_f" : "9",
+  "mid_f" : "6",
+  "nj_four_eve" : "1883",
+  "nj_four_mid" : "1513"
+}, {
+  "draw_date" : "05/05/2020",
+  "eve_f" : "0",
+  "mid_f" : "5",
+  "nj_four_eve" : "9037",
+  "nj_four_mid" : "0097"
+}, {
+  "draw_date" : "05/04/2020",
+  "eve_f" : "0",
+  "mid_f" : "2",
+  "nj_four_eve" : "0357",
+  "nj_four_mid" : "9062"
+}, {
+  "draw_date" : "05/03/2020",
+  "eve_f" : "4",
+  "mid_f" : "7",
+  "nj_four_eve" : "2090",
+  "nj_four_mid" : "5400"
+}, {
+  "draw_date" : "05/02/2020",
+  "eve_f" : "2",
+  "mid_f" : "5",
+  "nj_four_eve" : "2137",
+  "nj_four_mid" : "4464"
+}, {
+  "draw_date" : "05/01/2020",
+  "eve_f" : "3",
+  "mid_f" : "0",
+  "nj_four_eve" : "7978",
+  "nj_four_mid" : "8886"
+}, {
+  "draw_date" : "04/30/2020",
+  "eve_f" : "1",
+  "mid_f" : "3",
+  "nj_four_eve" : "8270",
+  "nj_four_mid" : "7562"
+}, {
+  "draw_date" : "04/29/2020",
+  "eve_f" : "6",
+  "mid_f" : "8",
+  "nj_four_eve" : "1204",
+  "nj_four_mid" : "5317"
+}, {
+  "draw_date" : "04/28/2020",
+  "eve_f" : "2",
+  "mid_f" : "4",
+  "nj_four_eve" : "4633",
+  "nj_four_mid" : "2397"
+}, {
+  "draw_date" : "04/27/2020",
+  "eve_f" : "4",
+  "mid_f" : "0",
+  "nj_four_eve" : "7107",
+  "nj_four_mid" : "0607"
+}, {
+  "draw_date" : "04/26/2020",
+  "eve_f" : "2",
+  "mid_f" : "3",
+  "nj_four_eve" : "1138",
+  "nj_four_mid" : "9137"
+}, {
+  "draw_date" : "04/25/2020",
+  "eve_f" : "6",
+  "mid_f" : "1",
+  "nj_four_eve" : "4466",
+  "nj_four_mid" : "8807"
+}, {
+  "draw_date" : "04/24/2020",
+  "eve_f" : "8",
+  "mid_f" : "6",
+  "nj_four_eve" : "7127",
+  "nj_four_mid" : "0395"
+}, {
+  "draw_date" : "04/23/2020",
+  "eve_f" : "8",
+  "mid_f" : "5",
+  "nj_four_eve" : "2833",
+  "nj_four_mid" : "1712"
+}, {
+  "draw_date" : "04/22/2020",
+  "eve_f" : "0",
+  "mid_f" : "9",
+  "nj_four_eve" : "0827",
+  "nj_four_mid" : "9821"
+}, {
+  "draw_date" : "04/21/2020",
+  "eve_f" : "7",
+  "mid_f" : "4",
+  "nj_four_eve" : "2659",
+  "nj_four_mid" : "3759"
+}, {
+  "draw_date" : "04/20/2020",
+  "eve_f" : "8",
+  "mid_f" : "5",
+  "nj_four_eve" : "2838",
+  "nj_four_mid" : "2075"
+}, {
+  "draw_date" : "04/19/2020",
+  "eve_f" : "2",
+  "mid_f" : "1",
+  "nj_four_eve" : "5855",
+  "nj_four_mid" : "2139"
+}, {
+  "draw_date" : "04/18/2020",
+  "eve_f" : "8",
+  "mid_f" : "2",
+  "nj_four_eve" : "2840",
+  "nj_four_mid" : "8118"
+}, {
+  "draw_date" : "04/17/2020",
+  "eve_f" : "7",
+  "mid_f" : "6",
+  "nj_four_eve" : "7152",
+  "nj_four_mid" : "1836"
+}, {
+  "draw_date" : "04/16/2020",
+  "eve_f" : "7",
+  "mid_f" : "3",
+  "nj_four_eve" : "8605",
+  "nj_four_mid" : "6691"
+}, {
+  "draw_date" : "04/15/2020",
+  "eve_f" : "2",
+  "mid_f" : "3",
+  "nj_four_eve" : "7646",
+  "nj_four_mid" : "3574"
+}, {
+  "draw_date" : "04/14/2020",
+  "eve_f" : "2",
+  "mid_f" : "0",
+  "nj_four_eve" : "5343",
+  "nj_four_mid" : "8354"
+}, {
+  "draw_date" : "04/13/2020",
+  "eve_f" : "1",
+  "mid_f" : "6",
+  "nj_four_eve" : "6623",
+  "nj_four_mid" : "8515"
+}, {
+  "draw_date" : "04/12/2020",
+  "eve_f" : "6",
+  "mid_f" : "5",
+  "nj_four_eve" : "1639",
+  "nj_four_mid" : "6057"
+}, {
+  "draw_date" : "04/11/2020",
+  "eve_f" : "8",
+  "mid_f" : "1",
+  "nj_four_eve" : "1143",
+  "nj_four_mid" : "7460"
+}, {
+  "draw_date" : "04/10/2020",
+  "eve_f" : "9",
+  "mid_f" : "3",
+  "nj_four_eve" : "1212",
+  "nj_four_mid" : "4909"
+}, {
+  "draw_date" : "04/09/2020",
+  "eve_f" : "3",
+  "mid_f" : "1",
+  "nj_four_eve" : "5789",
+  "nj_four_mid" : "1012"
+}, {
+  "draw_date" : "04/08/2020",
+  "eve_f" : "5",
+  "mid_f" : "3",
+  "nj_four_eve" : "1525",
+  "nj_four_mid" : "9862"
+}, {
+  "draw_date" : "04/07/2020",
+  "eve_f" : "5",
+  "mid_f" : "1",
+  "nj_four_eve" : "2041",
+  "nj_four_mid" : "5894"
+}, {
+  "draw_date" : "04/06/2020",
+  "eve_f" : "5",
+  "mid_f" : "8",
+  "nj_four_eve" : "2992",
+  "nj_four_mid" : "5665"
+}, {
+  "draw_date" : "04/05/2020",
+  "eve_f" : "3",
+  "mid_f" : "1",
+  "nj_four_eve" : "5331",
+  "nj_four_mid" : "5886"
+}, {
+  "draw_date" : "04/04/2020",
+  "eve_f" : "2",
+  "mid_f" : "8",
+  "nj_four_eve" : "2695",
+  "nj_four_mid" : "5678"
+}, {
+  "draw_date" : "04/03/2020",
+  "eve_f" : "2",
+  "mid_f" : "1",
+  "nj_four_eve" : "2046",
+  "nj_four_mid" : "3383"
+}, {
+  "draw_date" : "04/02/2020",
+  "eve_f" : "8",
+  "mid_f" : "6",
+  "nj_four_eve" : "9306",
+  "nj_four_mid" : "1764"
+}, {
+  "draw_date" : "04/01/2020",
+  "eve_f" : "4",
+  "mid_f" : "9",
+  "nj_four_eve" : "2269",
+  "nj_four_mid" : "8683"
+}, {
+  "draw_date" : "03/31/2020",
+  "eve_f" : "7",
+  "mid_f" : "1",
+  "nj_four_eve" : "5928",
+  "nj_four_mid" : "4593"
+}, {
+  "draw_date" : "03/30/2020",
+  "eve_f" : "3",
+  "mid_f" : "4",
+  "nj_four_eve" : "6370",
+  "nj_four_mid" : "5225"
+}, {
+  "draw_date" : "03/29/2020",
+  "eve_f" : "6",
+  "mid_f" : "9",
+  "nj_four_eve" : "5930",
+  "nj_four_mid" : "0816"
+}, {
+  "draw_date" : "03/28/2020",
+  "eve_f" : "1",
+  "mid_f" : "3",
+  "nj_four_eve" : "0308",
+  "nj_four_mid" : "2223"
+}, {
+  "draw_date" : "03/27/2020",
+  "eve_f" : "5",
+  "mid_f" : "1",
+  "nj_four_eve" : "1109",
+  "nj_four_mid" : "9245"
+}, {
+  "draw_date" : "03/26/2020",
+  "eve_f" : "7",
+  "mid_f" : "7",
+  "nj_four_eve" : "8854",
+  "nj_four_mid" : "2394"
+}, {
+  "draw_date" : "03/25/2020",
+  "eve_f" : "3",
+  "mid_f" : "8",
+  "nj_four_eve" : "4221",
+  "nj_four_mid" : "3525"
+}, {
+  "draw_date" : "03/24/2020",
+  "eve_f" : "1",
+  "mid_f" : "7",
+  "nj_four_eve" : "0196",
+  "nj_four_mid" : "4776"
+}, {
+  "draw_date" : "03/23/2020",
+  "eve_f" : "9",
+  "mid_f" : "8",
+  "nj_four_eve" : "2364",
+  "nj_four_mid" : "1860"
+}, {
+  "draw_date" : "03/22/2020",
+  "eve_f" : "2",
+  "mid_f" : "3",
+  "nj_four_eve" : "5884",
+  "nj_four_mid" : "9268"
+}, {
+  "draw_date" : "03/21/2020",
+  "eve_f" : "0",
+  "mid_f" : "4",
+  "nj_four_eve" : "7666",
+  "nj_four_mid" : "5819"
+}, {
+  "draw_date" : "03/20/2020",
+  "eve_f" : "5",
+  "mid_f" : "1",
+  "nj_four_eve" : "0088",
+  "nj_four_mid" : "0542"
+}, {
+  "draw_date" : "03/19/2020",
+  "eve_f" : "9",
+  "mid_f" : "1",
+  "nj_four_eve" : "0830",
+  "nj_four_mid" : "7408"
+}, {
+  "draw_date" : "03/18/2020",
+  "eve_f" : "2",
+  "mid_f" : "5",
+  "nj_four_eve" : "8718",
+  "nj_four_mid" : "0275"
+}, {
+  "draw_date" : "03/17/2020",
+  "eve_f" : "2",
+  "mid_f" : "2",
+  "nj_four_eve" : "2247",
+  "nj_four_mid" : "0752"
+}, {
+  "draw_date" : "03/16/2020",
+  "eve_f" : "1",
+  "mid_f" : "9",
+  "nj_four_eve" : "7989",
+  "nj_four_mid" : "9145"
+}, {
+  "draw_date" : "03/15/2020",
+  "eve_f" : "6",
+  "mid_f" : "1",
+  "nj_four_eve" : "5818",
+  "nj_four_mid" : "1647"
+}, {
+  "draw_date" : "03/14/2020",
+  "eve_f" : "9",
+  "mid_f" : "1",
+  "nj_four_eve" : "1769",
+  "nj_four_mid" : "7199"
+}, {
+  "draw_date" : "03/13/2020",
+  "eve_f" : "2",
+  "mid_f" : "1",
+  "nj_four_eve" : "0717",
+  "nj_four_mid" : "0322"
+}, {
+  "draw_date" : "03/12/2020",
+  "eve_f" : "8",
+  "mid_f" : "9",
+  "nj_four_eve" : "8878",
+  "nj_four_mid" : "3764"
+}, {
+  "draw_date" : "03/11/2020",
+  "eve_f" : "8",
+  "mid_f" : "6",
+  "nj_four_eve" : "0605",
+  "nj_four_mid" : "2776"
+}, {
+  "draw_date" : "03/10/2020",
+  "eve_f" : "7",
+  "mid_f" : "3",
+  "nj_four_eve" : "1812",
+  "nj_four_mid" : "1505"
+}, {
+  "draw_date" : "03/09/2020",
+  "eve_f" : "0",
+  "mid_f" : "1",
+  "nj_four_eve" : "3076",
+  "nj_four_mid" : "0523"
+}, {
+  "draw_date" : "03/08/2020",
+  "eve_f" : "9",
+  "mid_f" : "1",
+  "nj_four_eve" : "2597",
+  "nj_four_mid" : "3745"
+}, {
+  "draw_date" : "03/07/2020",
+  "eve_f" : "4",
+  "mid_f" : "0",
+  "nj_four_eve" : "9061",
+  "nj_four_mid" : "5075"
+}, {
+  "draw_date" : "03/06/2020",
+  "eve_f" : "8",
+  "mid_f" : "6",
+  "nj_four_eve" : "6751",
+  "nj_four_mid" : "0698"
+}, {
+  "draw_date" : "03/05/2020",
+  "eve_f" : "7",
+  "mid_f" : "8",
+  "nj_four_eve" : "4430",
+  "nj_four_mid" : "1928"
+}, {
+  "draw_date" : "03/04/2020",
+  "eve_f" : "3",
+  "mid_f" : "0",
+  "nj_four_eve" : "4444",
+  "nj_four_mid" : "3828"
+}, {
+  "draw_date" : "03/03/2020",
+  "eve_f" : "7",
+  "mid_f" : "5",
+  "nj_four_eve" : "7883",
+  "nj_four_mid" : "8651"
+}, {
+  "draw_date" : "03/02/2020",
+  "eve_f" : "1",
+  "mid_f" : "5",
+  "nj_four_eve" : "5290",
+  "nj_four_mid" : "0882"
+}, {
+  "draw_date" : "03/01/2020",
+  "eve_f" : "6",
+  "mid_f" : "2",
+  "nj_four_eve" : "9178",
+  "nj_four_mid" : "7805"
+}, {
+  "draw_date" : "02/29/2020",
+  "eve_f" : "2",
+  "mid_f" : "0",
+  "nj_four_eve" : "7239",
+  "nj_four_mid" : "9723"
+}, {
+  "draw_date" : "02/28/2020",
+  "eve_f" : "6",
+  "mid_f" : "9",
+  "nj_four_eve" : "2986",
+  "nj_four_mid" : "9014"
+}, {
+  "draw_date" : "02/27/2020",
+  "eve_f" : "2",
+  "mid_f" : "0",
+  "nj_four_eve" : "1874",
+  "nj_four_mid" : "4961"
+}, {
+  "draw_date" : "02/26/2020",
+  "eve_f" : "0",
+  "mid_f" : "8",
+  "nj_four_eve" : "1119",
+  "nj_four_mid" : "4570"
+}, {
+  "draw_date" : "02/25/2020",
+  "eve_f" : "6",
+  "mid_f" : "8",
+  "nj_four_eve" : "2121",
+  "nj_four_mid" : "4742"
+}, {
+  "draw_date" : "02/24/2020",
+  "eve_f" : "0",
+  "mid_f" : "6",
+  "nj_four_eve" : "2883",
+  "nj_four_mid" : "0340"
+}, {
+  "draw_date" : "02/23/2020",
+  "eve_f" : "9",
+  "mid_f" : "7",
+  "nj_four_eve" : "7552",
+  "nj_four_mid" : "5417"
+}, {
+  "draw_date" : "02/22/2020",
+  "eve_f" : "1",
+  "mid_f" : "0",
+  "nj_four_eve" : "5402",
+  "nj_four_mid" : "2643"
+}, {
+  "draw_date" : "02/21/2020",
+  "eve_f" : "5",
+  "mid_f" : "8",
+  "nj_four_eve" : "9282",
+  "nj_four_mid" : "4728"
+}, {
+  "draw_date" : "02/20/2020",
+  "eve_f" : "1",
+  "mid_f" : "0",
+  "nj_four_eve" : "2227",
+  "nj_four_mid" : "7156"
+}, {
+  "draw_date" : "02/19/2020",
+  "eve_f" : "3",
+  "mid_f" : "6",
+  "nj_four_eve" : "9185",
+  "nj_four_mid" : "2262"
+}, {
+  "draw_date" : "02/18/2020",
+  "eve_f" : "9",
+  "mid_f" : "3",
+  "nj_four_eve" : "2361",
+  "nj_four_mid" : "9479"
+}, {
+  "draw_date" : "02/17/2020",
+  "eve_f" : "8",
+  "mid_f" : "7",
+  "nj_four_eve" : "8898",
+  "nj_four_mid" : "9983"
+}, {
+  "draw_date" : "02/16/2020",
+  "eve_f" : "3",
+  "mid_f" : "0",
+  "nj_four_eve" : "5265",
+  "nj_four_mid" : "3361"
+}, {
+  "draw_date" : "02/15/2020",
+  "eve_f" : "8",
+  "mid_f" : "8",
+  "nj_four_eve" : "1533",
+  "nj_four_mid" : "3753"
+}, {
+  "draw_date" : "02/14/2020",
+  "eve_f" : "3",
+  "mid_f" : "3",
+  "nj_four_eve" : "9360",
+  "nj_four_mid" : "3824"
+}, {
+  "draw_date" : "02/13/2020",
+  "eve_f" : "1",
+  "mid_f" : "2",
+  "nj_four_eve" : "6308",
+  "nj_four_mid" : "5693"
+}, {
+  "draw_date" : "02/12/2020",
+  "eve_f" : "5",
+  "mid_f" : "5",
+  "nj_four_eve" : "0422",
+  "nj_four_mid" : "8128"
+}, {
+  "draw_date" : "02/11/2020",
+  "eve_f" : "9",
+  "mid_f" : "4",
+  "nj_four_eve" : "7787",
+  "nj_four_mid" : "5794"
+}, {
+  "draw_date" : "02/10/2020",
+  "eve_f" : "0",
+  "mid_f" : "2",
+  "nj_four_eve" : "6145",
+  "nj_four_mid" : "1394"
+}, {
+  "draw_date" : "02/09/2020",
+  "eve_f" : "4",
+  "mid_f" : "7",
+  "nj_four_eve" : "5502",
+  "nj_four_mid" : "3189"
+}, {
+  "draw_date" : "02/08/2020",
+  "eve_f" : "0",
+  "mid_f" : "2",
+  "nj_four_eve" : "9832",
+  "nj_four_mid" : "1225"
+}, {
+  "draw_date" : "02/07/2020",
+  "eve_f" : "6",
+  "mid_f" : "5",
+  "nj_four_eve" : "0502",
+  "nj_four_mid" : "1844"
+}, {
+  "draw_date" : "02/06/2020",
+  "eve_f" : "4",
+  "mid_f" : "3",
+  "nj_four_eve" : "9786",
+  "nj_four_mid" : "6047"
+}, {
+  "draw_date" : "02/05/2020",
+  "eve_f" : "7",
+  "mid_f" : "8",
+  "nj_four_eve" : "6871",
+  "nj_four_mid" : "0512"
+}, {
+  "draw_date" : "02/04/2020",
+  "eve_f" : "7",
+  "mid_f" : "6",
+  "nj_four_eve" : "5059",
+  "nj_four_mid" : "8934"
+}, {
+  "draw_date" : "02/03/2020",
+  "eve_f" : "1",
+  "mid_f" : "3",
+  "nj_four_eve" : "3829",
+  "nj_four_mid" : "9775"
+}, {
+  "draw_date" : "02/02/2020",
+  "eve_f" : "7",
+  "mid_f" : "3",
+  "nj_four_eve" : "8031",
+  "nj_four_mid" : "4182"
+}, {
+  "draw_date" : "02/01/2020",
+  "eve_f" : "0",
+  "mid_f" : "2",
+  "nj_four_eve" : "4869",
+  "nj_four_mid" : "9943"
+}, {
+  "draw_date" : "01/31/2020",
+  "eve_f" : "6",
+  "mid_f" : "8",
+  "nj_four_eve" : "7701",
+  "nj_four_mid" : "5398"
+}, {
+  "draw_date" : "01/30/2020",
+  "eve_f" : "5",
+  "mid_f" : "2",
+  "nj_four_eve" : "2151",
+  "nj_four_mid" : "8031"
+}, {
+  "draw_date" : "01/29/2020",
+  "eve_f" : "7",
+  "mid_f" : "5",
+  "nj_four_eve" : "6248",
+  "nj_four_mid" : "7459"
+}, {
+  "draw_date" : "01/28/2020",
+  "eve_f" : "7",
+  "mid_f" : "5",
+  "nj_four_eve" : "4245",
+  "nj_four_mid" : "9262"
+}, {
+  "draw_date" : "01/27/2020",
+  "eve_f" : "1",
+  "mid_f" : "7",
+  "nj_four_eve" : "3065",
+  "nj_four_mid" : "0051"
+}, {
+  "draw_date" : "01/26/2020",
+  "eve_f" : "4",
+  "mid_f" : "8",
+  "nj_four_eve" : "7982",
+  "nj_four_mid" : "8487"
+}, {
+  "draw_date" : "01/25/2020",
+  "eve_f" : "1",
+  "mid_f" : "5",
+  "nj_four_eve" : "4143",
+  "nj_four_mid" : "3078"
+}, {
+  "draw_date" : "01/24/2020",
+  "eve_f" : "5",
+  "mid_f" : "9",
+  "nj_four_eve" : "3336",
+  "nj_four_mid" : "6077"
+}, {
+  "draw_date" : "01/23/2020",
+  "eve_f" : "4",
+  "mid_f" : "8",
+  "nj_four_eve" : "2744",
+  "nj_four_mid" : "3733"
+}, {
+  "draw_date" : "01/22/2020",
+  "eve_f" : "8",
+  "mid_f" : "9",
+  "nj_four_eve" : "9995",
+  "nj_four_mid" : "4362"
+}, {
+  "draw_date" : "01/21/2020",
+  "eve_f" : "3",
+  "mid_f" : "3",
+  "nj_four_eve" : "6087",
+  "nj_four_mid" : "9990"
+}, {
+  "draw_date" : "01/20/2020",
+  "eve_f" : "9",
+  "mid_f" : "7",
+  "nj_four_eve" : "5321",
+  "nj_four_mid" : "8212"
+}, {
+  "draw_date" : "01/19/2020",
+  "eve_f" : "4",
+  "mid_f" : "4",
+  "nj_four_eve" : "8512",
+  "nj_four_mid" : "8457"
+}, {
+  "draw_date" : "01/18/2020",
+  "eve_f" : "8",
+  "mid_f" : "7",
+  "nj_four_eve" : "5801",
+  "nj_four_mid" : "4150"
+}, {
+  "draw_date" : "01/17/2020",
+  "eve_f" : "8",
+  "mid_f" : "2",
+  "nj_four_eve" : "7084",
+  "nj_four_mid" : "5415"
+}, {
+  "draw_date" : "01/16/2020",
+  "eve_f" : "3",
+  "mid_f" : "0",
+  "nj_four_eve" : "9391",
+  "nj_four_mid" : "3992"
+}, {
+  "draw_date" : "01/15/2020",
+  "eve_f" : "0",
+  "mid_f" : "8",
+  "nj_four_eve" : "7504",
+  "nj_four_mid" : "4467"
+}, {
+  "draw_date" : "01/14/2020",
+  "eve_f" : "8",
+  "mid_f" : "7",
+  "nj_four_eve" : "6101",
+  "nj_four_mid" : "1076"
+}, {
+  "draw_date" : "01/13/2020",
+  "eve_f" : "3",
+  "mid_f" : "3",
+  "nj_four_eve" : "3420",
+  "nj_four_mid" : "7254"
+}, {
+  "draw_date" : "01/12/2020",
+  "eve_f" : "7",
+  "mid_f" : "3",
+  "nj_four_eve" : "9222",
+  "nj_four_mid" : "7223"
+}, {
+  "draw_date" : "01/11/2020",
+  "eve_f" : "5",
+  "mid_f" : "9",
+  "nj_four_eve" : "4498",
+  "nj_four_mid" : "1343"
+}, {
+  "draw_date" : "01/10/2020",
+  "eve_f" : "5",
+  "mid_f" : "2",
+  "nj_four_eve" : "2862",
+  "nj_four_mid" : "9810"
+}, {
+  "draw_date" : "01/09/2020",
+  "eve_f" : "3",
+  "mid_f" : "4",
+  "nj_four_eve" : "1062",
+  "nj_four_mid" : "2138"
+}, {
+  "draw_date" : "01/08/2020",
+  "eve_f" : "6",
+  "mid_f" : "2",
+  "nj_four_eve" : "0075",
+  "nj_four_mid" : "2128"
+}, {
+  "draw_date" : "01/07/2020",
+  "eve_f" : "1",
+  "mid_f" : "7",
+  "nj_four_eve" : "1124",
+  "nj_four_mid" : "5195"
+}, {
+  "draw_date" : "01/06/2020",
+  "eve_f" : "5",
+  "mid_f" : "0",
+  "nj_four_eve" : "2542",
+  "nj_four_mid" : "8068"
+}, {
+  "draw_date" : "01/05/2020",
+  "eve_f" : "3",
+  "mid_f" : "3",
+  "nj_four_eve" : "1834",
+  "nj_four_mid" : "7497"
+}, {
+  "draw_date" : "01/04/2020",
+  "eve_f" : "7",
+  "mid_f" : "0",
+  "nj_four_eve" : "4463",
+  "nj_four_mid" : "6890"
+}, {
+  "draw_date" : "01/03/2020",
+  "eve_f" : "7",
+  "mid_f" : "1",
+  "nj_four_eve" : "6865",
+  "nj_four_mid" : "0281"
+}, {
+  "draw_date" : "01/02/2020",
+  "eve_f" : "2",
+  "mid_f" : "6",
+  "nj_four_eve" : "9718",
+  "nj_four_mid" : "1624"
+}, {
+  "draw_date" : "01/01/2020",
+  "eve_f" : "9",
+  "mid_f" : "2",
+  "nj_four_eve" : "5658",
+  "nj_four_mid" : "9549"
+}, {
+  "draw_date" : "12/31/2019",
+  "eve_f" : "3",
+  "mid_f" : "4",
+  "nj_four_eve" : "0796",
+  "nj_four_mid" : "9049"
+}, {
+  "draw_date" : "12/30/2019",
+  "eve_f" : "5",
+  "mid_f" : "2",
+  "nj_four_eve" : "2113",
+  "nj_four_mid" : "9178"
+}, {
+  "draw_date" : "12/29/2019",
+  "eve_f" : "6",
+  "mid_f" : "5",
+  "nj_four_eve" : "9922",
+  "nj_four_mid" : "4845"
+}, {
+  "draw_date" : "12/28/2019",
+  "eve_f" : "2",
+  "mid_f" : "6",
+  "nj_four_eve" : "6070",
+  "nj_four_mid" : "5493"
+}, {
+  "draw_date" : "12/27/2019",
+  "eve_f" : "1",
+  "mid_f" : "1",
+  "nj_four_eve" : "9092",
+  "nj_four_mid" : "3206"
+}, {
+  "draw_date" : "12/26/2019",
+  "eve_f" : "2",
+  "mid_f" : "9",
+  "nj_four_eve" : "6229",
+  "nj_four_mid" : "5523"
+}, {
+  "draw_date" : "12/24/2019",
+  "eve_f" : "8",
+  "mid_f" : "0",
+  "nj_four_eve" : "9439",
+  "nj_four_mid" : "2570"
+}, {
+  "draw_date" : "12/23/2019",
+  "eve_f" : "1",
+  "mid_f" : "2",
+  "nj_four_eve" : "0648",
+  "nj_four_mid" : "1211"
+}, {
+  "draw_date" : "12/22/2019",
+  "eve_f" : "3",
+  "mid_f" : "7",
+  "nj_four_eve" : "5033",
+  "nj_four_mid" : "9850"
+}, {
+  "draw_date" : "12/21/2019",
+  "eve_f" : "0",
+  "mid_f" : "1",
+  "nj_four_eve" : "9294",
+  "nj_four_mid" : "9100"
+}, {
+  "draw_date" : "12/20/2019",
+  "eve_f" : "9",
+  "mid_f" : "8",
+  "nj_four_eve" : "9637",
+  "nj_four_mid" : "5019"
+}, {
+  "draw_date" : "12/19/2019",
+  "eve_f" : "6",
+  "mid_f" : "5",
+  "nj_four_eve" : "0401",
+  "nj_four_mid" : "1512"
+}, {
+  "draw_date" : "12/18/2019",
+  "eve_f" : "0",
+  "mid_f" : "2",
+  "nj_four_eve" : "6759",
+  "nj_four_mid" : "1874"
+}, {
+  "draw_date" : "12/17/2019",
+  "eve_f" : "9",
+  "mid_f" : "3",
+  "nj_four_eve" : "4539",
+  "nj_four_mid" : "5775"
+}, {
+  "draw_date" : "12/16/2019",
+  "eve_f" : "7",
+  "mid_f" : "7",
+  "nj_four_eve" : "7383",
+  "nj_four_mid" : "9005"
+}, {
+  "draw_date" : "12/15/2019",
+  "eve_f" : "0",
+  "mid_f" : "4",
+  "nj_four_eve" : "8885",
+  "nj_four_mid" : "5893"
+}, {
+  "draw_date" : "12/14/2019",
+  "eve_f" : "2",
+  "mid_f" : "8",
+  "nj_four_eve" : "3551",
+  "nj_four_mid" : "4375"
+}, {
+  "draw_date" : "12/13/2019",
+  "eve_f" : "0",
+  "mid_f" : "0",
+  "nj_four_eve" : "7008",
+  "nj_four_mid" : "0074"
+}, {
+  "draw_date" : "12/12/2019",
+  "eve_f" : "5",
+  "mid_f" : "5",
+  "nj_four_eve" : "0732",
+  "nj_four_mid" : "4343"
+}, {
+  "draw_date" : "12/11/2019",
+  "eve_f" : "3",
+  "mid_f" : "1",
+  "nj_four_eve" : "4880",
+  "nj_four_mid" : "1205"
+}, {
+  "draw_date" : "12/10/2019",
+  "eve_f" : "5",
+  "mid_f" : "6",
+  "nj_four_eve" : "6296",
+  "nj_four_mid" : "8843"
+}, {
+  "draw_date" : "12/09/2019",
+  "eve_f" : "4",
+  "mid_f" : "9",
+  "nj_four_eve" : "0436",
+  "nj_four_mid" : "6769"
+}, {
+  "draw_date" : "12/08/2019",
+  "eve_f" : "4",
+  "mid_f" : "6",
+  "nj_four_eve" : "7436",
+  "nj_four_mid" : "2334"
+}, {
+  "draw_date" : "12/07/2019",
+  "eve_f" : "2",
+  "mid_f" : "7",
+  "nj_four_eve" : "0387",
+  "nj_four_mid" : "1049"
+}, {
+  "draw_date" : "12/06/2019",
+  "eve_f" : "7",
+  "mid_f" : "2",
+  "nj_four_eve" : "3171",
+  "nj_four_mid" : "0759"
+}, {
+  "draw_date" : "12/05/2019",
+  "eve_f" : "3",
+  "mid_f" : "2",
+  "nj_four_eve" : "2624",
+  "nj_four_mid" : "0095"
+}, {
+  "draw_date" : "12/04/2019",
+  "eve_f" : "8",
+  "mid_f" : "5",
+  "nj_four_eve" : "3962",
+  "nj_four_mid" : "1098"
+}, {
+  "draw_date" : "12/03/2019",
+  "eve_f" : "0",
+  "mid_f" : "4",
+  "nj_four_eve" : "7657",
+  "nj_four_mid" : "0551"
+}, {
+  "draw_date" : "12/02/2019",
+  "eve_f" : "2",
+  "mid_f" : "0",
+  "nj_four_eve" : "6534",
+  "nj_four_mid" : "3060"
+}, {
+  "draw_date" : "12/01/2019",
+  "eve_f" : "2",
+  "mid_f" : "4",
+  "nj_four_eve" : "4402",
+  "nj_four_mid" : "6515"
+}, {
+  "draw_date" : "11/30/2019",
+  "eve_f" : "9",
+  "mid_f" : "4",
+  "nj_four_eve" : "1858",
+  "nj_four_mid" : "2445"
+}, {
+  "draw_date" : "11/29/2019",
+  "eve_f" : "9",
+  "mid_f" : "1",
+  "nj_four_eve" : "7583",
+  "nj_four_mid" : "1598"
+}, {
+  "draw_date" : "11/28/2019",
+  "eve_f" : "3",
+  "mid_f" : "1",
+  "nj_four_eve" : "2879",
+  "nj_four_mid" : "1588"
+}, {
+  "draw_date" : "11/27/2019",
+  "eve_f" : "6",
+  "mid_f" : "0",
+  "nj_four_eve" : "0241",
+  "nj_four_mid" : "6007"
+}, {
+  "draw_date" : "11/26/2019",
+  "eve_f" : "7",
+  "mid_f" : "2",
+  "nj_four_eve" : "9127",
+  "nj_four_mid" : "6773"
+}, {
+  "draw_date" : "11/25/2019",
+  "eve_f" : "8",
+  "mid_f" : "3",
+  "nj_four_eve" : "0541",
+  "nj_four_mid" : "0309"
+}, {
+  "draw_date" : "11/24/2019",
+  "eve_f" : "1",
+  "mid_f" : "8",
+  "nj_four_eve" : "6261",
+  "nj_four_mid" : "2169"
+}, {
+  "draw_date" : "11/23/2019",
+  "eve_f" : "0",
+  "mid_f" : "2",
+  "nj_four_eve" : "0967",
+  "nj_four_mid" : "0002"
+}, {
+  "draw_date" : "11/22/2019",
+  "eve_f" : "2",
+  "mid_f" : "7",
+  "nj_four_eve" : "4575",
+  "nj_four_mid" : "2334"
+}, {
+  "draw_date" : "11/21/2019",
+  "eve_f" : "1",
+  "mid_f" : "7",
+  "nj_four_eve" : "4262",
+  "nj_four_mid" : "9236"
+}, {
+  "draw_date" : "11/20/2019",
+  "eve_f" : "2",
+  "mid_f" : "2",
+  "nj_four_eve" : "9432",
+  "nj_four_mid" : "8069"
+}, {
+  "draw_date" : "11/19/2019",
+  "eve_f" : "8",
+  "mid_f" : "0",
+  "nj_four_eve" : "5035",
+  "nj_four_mid" : "6916"
+}, {
+  "draw_date" : "11/18/2019",
+  "eve_f" : "9",
+  "mid_f" : "2",
+  "nj_four_eve" : "3086",
+  "nj_four_mid" : "5285"
+}, {
+  "draw_date" : "11/17/2019",
+  "eve_f" : "3",
+  "mid_f" : "0",
+  "nj_four_eve" : "4419",
+  "nj_four_mid" : "9536"
+}, {
+  "draw_date" : "11/16/2019",
+  "eve_f" : "9",
+  "mid_f" : "2",
+  "nj_four_eve" : "7709",
+  "nj_four_mid" : "5091"
+}, {
+  "draw_date" : "11/15/2019",
+  "eve_f" : "8",
+  "mid_f" : "0",
+  "nj_four_eve" : "9545",
+  "nj_four_mid" : "5439"
+}, {
+  "draw_date" : "11/14/2019",
+  "eve_f" : "7",
+  "mid_f" : "3",
+  "nj_four_eve" : "9896",
+  "nj_four_mid" : "6533"
+}, {
+  "draw_date" : "11/13/2019",
+  "eve_f" : "7",
+  "mid_f" : "8",
+  "nj_four_eve" : "9642",
+  "nj_four_mid" : "2104"
+}, {
+  "draw_date" : "11/12/2019",
+  "eve_f" : "5",
+  "mid_f" : "7",
+  "nj_four_eve" : "6518",
+  "nj_four_mid" : "3956"
+}, {
+  "draw_date" : "11/11/2019",
+  "eve_f" : "4",
+  "mid_f" : "2",
+  "nj_four_eve" : "1866",
+  "nj_four_mid" : "6953"
+}, {
+  "draw_date" : "11/10/2019",
+  "eve_f" : "5",
+  "mid_f" : "0",
+  "nj_four_eve" : "5559",
+  "nj_four_mid" : "0387"
+}, {
+  "draw_date" : "11/09/2019",
+  "eve_f" : "3",
+  "mid_f" : "7",
+  "nj_four_eve" : "6131",
+  "nj_four_mid" : "7236"
+}, {
+  "draw_date" : "11/08/2019",
+  "eve_f" : "8",
+  "mid_f" : "9",
+  "nj_four_eve" : "9067",
+  "nj_four_mid" : "6136"
+}, {
+  "draw_date" : "11/07/2019",
+  "eve_f" : "8",
+  "mid_f" : "9",
+  "nj_four_eve" : "0517",
+  "nj_four_mid" : "9074"
+}, {
+  "draw_date" : "11/06/2019",
+  "eve_f" : "3",
+  "mid_f" : "3",
+  "nj_four_eve" : "1657",
+  "nj_four_mid" : "1402"
+}, {
+  "draw_date" : "11/05/2019",
+  "eve_f" : "8",
+  "mid_f" : "2",
+  "nj_four_eve" : "5630",
+  "nj_four_mid" : "8714"
+}, {
+  "draw_date" : "11/04/2019",
+  "eve_f" : "8",
+  "mid_f" : "3",
+  "nj_four_eve" : "9054",
+  "nj_four_mid" : "6152"
+}, {
+  "draw_date" : "11/03/2019",
+  "eve_f" : "6",
+  "mid_f" : "9",
+  "nj_four_eve" : "7797",
+  "nj_four_mid" : "8125"
+}, {
+  "draw_date" : "11/02/2019",
+  "eve_f" : "5",
+  "mid_f" : "4",
+  "nj_four_eve" : "1423",
+  "nj_four_mid" : "1854"
+}, {
+  "draw_date" : "11/01/2019",
+  "eve_f" : "8",
+  "mid_f" : "5",
+  "nj_four_eve" : "0934",
+  "nj_four_mid" : "6983"
+}, {
+  "draw_date" : "10/31/2019",
+  "eve_f" : "5",
+  "mid_f" : "6",
+  "nj_four_eve" : "3125",
+  "nj_four_mid" : "9887"
+}, {
+  "draw_date" : "10/30/2019",
+  "eve_f" : "1",
+  "mid_f" : "2",
+  "nj_four_eve" : "5287",
+  "nj_four_mid" : "5641"
+}, {
+  "draw_date" : "10/29/2019",
+  "eve_f" : "5",
+  "mid_f" : "2",
+  "nj_four_eve" : "2218",
+  "nj_four_mid" : "9568"
+}, {
+  "draw_date" : "10/28/2019",
+  "eve_f" : "2",
+  "mid_f" : "6",
+  "nj_four_eve" : "1797",
+  "nj_four_mid" : "0916"
+}, {
+  "draw_date" : "10/27/2019",
+  "eve_f" : "2",
+  "mid_f" : "6",
+  "nj_four_eve" : "8948",
+  "nj_four_mid" : "9236"
+}, {
+  "draw_date" : "10/26/2019",
+  "eve_f" : "2",
+  "mid_f" : "0",
+  "nj_four_eve" : "1263",
+  "nj_four_mid" : "8476"
+}, {
+  "draw_date" : "10/25/2019",
+  "eve_f" : "8",
+  "mid_f" : "3",
+  "nj_four_eve" : "1234",
+  "nj_four_mid" : "3805"
+}, {
+  "draw_date" : "10/24/2019",
+  "eve_f" : "7",
+  "mid_f" : "8",
+  "nj_four_eve" : "1505",
+  "nj_four_mid" : "3464"
+}, {
+  "draw_date" : "10/23/2019",
+  "eve_f" : "6",
+  "mid_f" : "6",
+  "nj_four_eve" : "5578",
+  "nj_four_mid" : "0188"
+}, {
+  "draw_date" : "10/22/2019",
+  "eve_f" : "1",
+  "mid_f" : "8",
+  "nj_four_eve" : "1707",
+  "nj_four_mid" : "7598"
+}, {
+  "draw_date" : "10/21/2019",
+  "eve_f" : "6",
+  "mid_f" : "7",
+  "nj_four_eve" : "2717",
+  "nj_four_mid" : "1698"
+}, {
+  "draw_date" : "10/20/2019",
+  "eve_f" : "1",
+  "mid_f" : "2",
+  "nj_four_eve" : "9395",
+  "nj_four_mid" : "4676"
+}, {
+  "draw_date" : "10/19/2019",
+  "eve_f" : "6",
+  "mid_f" : "0",
+  "nj_four_eve" : "5402",
+  "nj_four_mid" : "3455"
+}, {
+  "draw_date" : "10/18/2019",
+  "eve_f" : "4",
+  "mid_f" : "0",
+  "nj_four_eve" : "2026",
+  "nj_four_mid" : "4954"
+}, {
+  "draw_date" : "10/17/2019",
+  "eve_f" : "5",
+  "mid_f" : "9",
+  "nj_four_eve" : "2571",
+  "nj_four_mid" : "0335"
+}, {
+  "draw_date" : "10/16/2019",
+  "eve_f" : "9",
+  "mid_f" : "0",
+  "nj_four_eve" : "0095",
+  "nj_four_mid" : "9606"
+}, {
+  "draw_date" : "10/15/2019",
+  "eve_f" : "6",
+  "mid_f" : "7",
+  "nj_four_eve" : "2672",
+  "nj_four_mid" : "0110"
+}, {
+  "draw_date" : "10/14/2019",
+  "eve_f" : "3",
+  "mid_f" : "2",
+  "nj_four_eve" : "7059",
+  "nj_four_mid" : "9557"
+}, {
+  "draw_date" : "10/13/2019",
+  "eve_f" : "8",
+  "mid_f" : "5",
+  "nj_four_eve" : "3646",
+  "nj_four_mid" : "5223"
+}, {
+  "draw_date" : "10/12/2019",
+  "eve_f" : "2",
+  "mid_f" : "2",
+  "nj_four_eve" : "1498",
+  "nj_four_mid" : "0472"
+}, {
+  "draw_date" : "10/11/2019",
+  "eve_f" : "0",
+  "mid_f" : "9",
+  "nj_four_eve" : "8711",
+  "nj_four_mid" : "5446"
+}, {
+  "draw_date" : "10/10/2019",
+  "eve_f" : "1",
+  "mid_f" : "1",
+  "nj_four_eve" : "6964",
+  "nj_four_mid" : "2461"
+}, {
+  "draw_date" : "10/09/2019",
+  "eve_f" : "4",
+  "mid_f" : "7",
+  "nj_four_eve" : "4947",
+  "nj_four_mid" : "1498"
+}, {
+  "draw_date" : "10/08/2019",
+  "eve_f" : "1",
+  "mid_f" : "5",
+  "nj_four_eve" : "4985",
+  "nj_four_mid" : "3468"
+}, {
+  "draw_date" : "10/07/2019",
+  "eve_f" : "8",
+  "mid_f" : "5",
+  "nj_four_eve" : "0838",
+  "nj_four_mid" : "7414"
+}, {
+  "draw_date" : "10/06/2019",
+  "eve_f" : "4",
+  "mid_f" : "2",
+  "nj_four_eve" : "2833",
+  "nj_four_mid" : "0364"
+}, {
+  "draw_date" : "10/05/2019",
+  "eve_f" : "3",
+  "mid_f" : "1",
+  "nj_four_eve" : "5487",
+  "nj_four_mid" : "6113"
+}, {
+  "draw_date" : "10/04/2019",
+  "eve_f" : "6",
+  "mid_f" : "1",
+  "nj_four_eve" : "6823",
+  "nj_four_mid" : "4205"
+}, {
+  "draw_date" : "10/03/2019",
+  "eve_f" : "7",
+  "mid_f" : "6",
+  "nj_four_eve" : "6054",
+  "nj_four_mid" : "8395"
+}, {
+  "draw_date" : "10/02/2019",
+  "eve_f" : "4",
+  "mid_f" : "9",
+  "nj_four_eve" : "7112",
+  "nj_four_mid" : "4800"
+}, {
+  "draw_date" : "10/01/2019",
+  "eve_f" : "5",
+  "mid_f" : "2",
+  "nj_four_eve" : "7776",
+  "nj_four_mid" : "2722"
+}, {
+  "draw_date" : "09/30/2019",
+  "eve_f" : "1",
+  "mid_f" : "5",
+  "nj_four_eve" : "2642",
+  "nj_four_mid" : "5281"
+}, {
+  "draw_date" : "09/29/2019",
+  "eve_f" : "3",
+  "mid_f" : "2",
+  "nj_four_eve" : "9566",
+  "nj_four_mid" : "1789"
+}, {
+  "draw_date" : "09/28/2019",
+  "eve_f" : "9",
+  "mid_f" : "1",
+  "nj_four_eve" : "6475",
+  "nj_four_mid" : "3869"
+}, {
+  "draw_date" : "09/27/2019",
+  "eve_f" : "4",
+  "mid_f" : "9",
+  "nj_four_eve" : "4763",
+  "nj_four_mid" : "4263"
+}, {
+  "draw_date" : "09/26/2019",
+  "eve_f" : "1",
+  "mid_f" : "6",
+  "nj_four_eve" : "8614",
+  "nj_four_mid" : "4964"
+}, {
+  "draw_date" : "09/25/2019",
+  "eve_f" : "2",
+  "mid_f" : "7",
+  "nj_four_eve" : "7605",
+  "nj_four_mid" : "4576"
+}, {
+  "draw_date" : "09/24/2019",
+  "eve_f" : "7",
+  "mid_f" : "4",
+  "nj_four_eve" : "4114",
+  "nj_four_mid" : "8498"
+}, {
+  "draw_date" : "09/23/2019",
+  "eve_f" : "2",
+  "mid_f" : "9",
+  "nj_four_eve" : "7013",
+  "nj_four_mid" : "2947"
+}, {
+  "draw_date" : "09/22/2019",
+  "eve_f" : "1",
+  "mid_f" : "1",
+  "nj_four_eve" : "0375",
+  "nj_four_mid" : "1175"
+}, {
+  "draw_date" : "09/21/2019",
+  "eve_f" : "8",
+  "mid_f" : "7",
+  "nj_four_eve" : "4240",
+  "nj_four_mid" : "4081"
+}, {
+  "draw_date" : "09/20/2019",
+  "eve_f" : "1",
+  "mid_f" : "7",
+  "nj_four_eve" : "5956",
+  "nj_four_mid" : "2783"
+} ]
