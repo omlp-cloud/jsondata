@@ -1,11 +1,16 @@
 import json
-# Import database module.
-from firebase_admin import db
+import pyrebase
 
-# Get a database reference to our blog.
-ref = db.reference('server/saving-data/fireblog')
+config = {
+  "apiKey": "apiKey",
+  "authDomain": "projectId.firebaseapp.com",
+  "databaseURL": "https://databaseName.firebaseio.com",
+  "storageBucket": "projectId.appspot.com"
+}
 
-posts_ref = ref.child('ct-lottery')
+firebase = pyrebase.initialize_app(config)
+
+db = firebase.database()
 
 
 # Opening JSON file
@@ -18,8 +23,7 @@ data = json.load(f)
 # Iterating through the json
 # list
 for i in data['ct-lottery']:
-    posts_ref.push(i)
-
+     db.child("ct-lottery").push(i)
  
 # Closing file
 f.close()
